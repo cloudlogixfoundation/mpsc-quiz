@@ -1,5 +1,5 @@
 const questions = [
- {
+    {
         "question": "Consider the following statements regarding the human digestive system:\n1. The duodenum is the first part of the small intestine and receives bile and pancreatic juice.\n2. The colon plays a crucial role in absorbing nutrients from digested food.\n3. Salivary glands initiate digestion of carbohydrates.\nWhich of the statements are correct?",
         "options": [
             "1 and 2 only",
@@ -28,16 +28,16 @@ const questions = [
             "1 and 2 only"
         ],
         "answer": "1 only"
-    }
+    },
     {
         "question": "With reference to digestion, which of the following enzyme-function pairs is incorrect?",
         "options": [
-            "Amylase \u2013 Breaks down starch",
-            "Pepsin \u2013 Acts on fats in stomach",
-            "Lipase \u2013 Acts on lipids",
-            "Trypsin \u2013 Acts on proteins"
+            "Amylase – Breaks down starch",
+            "Pepsin – Acts on fats in stomach",
+            "Lipase – Acts on lipids",
+            "Trypsin – Acts on proteins"
         ],
-        "answer": "Pepsin \u2013 Acts on fats in stomach"
+        "answer": "Pepsin – Acts on fats in stomach"
     },
     {
         "question": "In the human digestive system, which organ is not directly involved in digestion but contributes to the process through secretions?",
@@ -64,38 +64,37 @@ const questions = [
 const quizContainer = document.getElementById("quiz");
 
 questions.forEach((q, index) => {
-  const qDiv = document.createElement("div");
-  qDiv.classList.add("question");
-  qDiv.innerHTML = `<p><strong>Q${index + 1}:</strong> ${q.question}</p>`;
+    const qDiv = document.createElement("div");
+    qDiv.classList.add("question");
+    qDiv.innerHTML = `<p><strong>Q${index + 1}:</strong> ${q.question}</p>`;
 
-  q.options.forEach(opt => {
-    const label = document.createElement("label");
-    label.classList.add("option");
-    label.innerHTML = `<input type="radio" name="q${index}" value="${opt}"> ${opt}<br>`;
-    qDiv.appendChild(label);
-  });
+    q.options.forEach(opt => {
+        const label = document.createElement("label");
+        label.classList.add("option");
+        label.innerHTML = `<input type="radio" name="q${index}" value="${opt}"> ${opt}<br>`;
+        qDiv.appendChild(label);
+    });
 
-  quizContainer.appendChild(qDiv);
+    quizContainer.appendChild(qDiv);
 });
 
 function submitQuiz() {
-  let score = 0;
-  questions.forEach((q, i) => {
-    const selected = document.querySelector(`input[name="q${i}"]:checked`);
-    const resultDiv = document.createElement("div");
-    if (selected && selected.value === q.answer) {
-      selected.parentElement.classList.add("correct");
-      score++;
-    } else {
-      if (selected) selected.parentElement.classList.add("wrong");
-      const allOptions = document.getElementsByName(`q${i}`);
-      allOptions.forEach(opt => {
-        if (opt.value === q.answer) {
-          opt.parentElement.classList.add("correct");
+    let score = 0;
+    questions.forEach((q, i) => {
+        const selected = document.querySelector(`input[name="q${i}"]:checked`);
+        if (selected && selected.value === q.answer) {
+            selected.parentElement.classList.add("correct");
+            score++;
+        } else {
+            if (selected) selected.parentElement.classList.add("wrong");
+            const allOptions = document.getElementsByName(`q${i}`);
+            allOptions.forEach(opt => {
+                if (opt.value === q.answer) {
+                    opt.parentElement.classList.add("correct");
+                }
+            });
         }
-      });
-    }
-  });
+    });
 
-  document.getElementById("result").innerHTML = `<h3>You scored ${score} out of ${questions.length}</h3>`;
+    document.getElementById("result").innerHTML = `<h3>You scored ${score} out of ${questions.length}</h3>`;
 }
