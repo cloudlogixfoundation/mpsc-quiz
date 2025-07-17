@@ -1,20 +1,23 @@
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: 'Segoe UI', sans-serif;
+  background: #f9f9f9;
   display: flex;
+  min-height: 100vh;
 }
 
 .sidebar {
-  width: 200px;
-  background-color: #333;
+  width: 220px;
+  background-color: #2c3e50;
   color: white;
-  height: 100vh;
   padding: 20px 10px;
   box-sizing: border-box;
 }
 
 .sidebar h2 {
   text-align: center;
+  font-size: 20px;
+  margin-bottom: 15px;
 }
 
 .sidebar ul {
@@ -23,53 +26,80 @@ body {
 }
 
 .sidebar ul li {
-  margin: 10px 0;
+  margin: 12px 0;
 }
 
 .sidebar ul li a {
   color: white;
   text-decoration: none;
+  font-size: 16px;
+}
+
+.sidebar ul li a:hover {
+  text-decoration: underline;
 }
 
 .main {
   flex: 1;
-  padding: 20px;
-  background: #f4f4f4;
+  padding: 30px;
+  background: #ecf0f1;
+  overflow-y: auto;
 }
 
 .container {
+  max-width: 800px;
+  margin: auto;
   background: white;
-  padding: 20px;
-  border-radius: 10px;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  margin-top: 0;
+  text-align: center;
 }
 
 .question {
-  margin-bottom: 15px;
+  margin-bottom: 20px;
+}
+
+.question p {
+  margin-bottom: 10px;
 }
 
 .option {
   margin-left: 20px;
   display: block;
+  margin-bottom: 5px;
 }
 
 .correct {
   color: green;
+  font-weight: bold;
 }
 
 .wrong {
   color: red;
+  font-weight: bold;
 }
 
 button {
-  margin: 10px 10px 0 0;
-  padding: 10px 20px;
-  background-color: #0066cc;
+  margin: 20px 10px 0 0;
+  padding: 12px 24px;
+  background-color: #2980b9;
   color: white;
   border: none;
   border-radius: 6px;
+  font-size: 16px;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #0052a3;
+  background-color: #1f6391;
+}
+
+#result {
+  margin-top: 20px;
+  text-align: center;
 }
