@@ -1,17 +1,35 @@
 body {
   font-family: Arial, sans-serif;
   background: #f4f4f4;
-  padding: 30px;
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.navbar h2 {
+  margin: 0;
+}
+.navbar ul {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+}
+.navbar a {
+  color: white;
+  text-decoration: none;
 }
 .container {
-  max-width: 700px;
-  margin: auto;
+  max-width: 800px;
+  margin: 20px auto;
   background: white;
   padding: 30px;
   border-radius: 10px;
-}
-h1 {
-  text-align: center;
 }
 .question {
   margin-bottom: 15px;
