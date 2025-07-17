@@ -33,13 +33,13 @@ function displayQuestions() {
 function submitQuiz() {
   let score = 0;
   currentQuestions.forEach((q, i) => {
-    const selected = document.querySelector(\`input[name="q\${i}"]:checked\`);
+    const selected = document.querySelector(`input[name="q${i}"]:checked`);
     if (selected && selected.value === q.answer) {
       selected.parentElement.classList.add("correct");
       score++;
     } else {
       if (selected) selected.parentElement.classList.add("wrong");
-      const allOptions = document.getElementsByName(\`q\${i}\`);
+      const allOptions = document.getElementsByName(`q${i}`);
       allOptions.forEach(opt => {
         if (opt.value === q.answer) {
           opt.parentElement.classList.add("correct");
@@ -48,5 +48,5 @@ function submitQuiz() {
     }
   });
 
-  document.getElementById("result").innerHTML = `<h3>You scored \${score} out of \${currentQuestions.length}</h3>`;
+  document.getElementById("result").innerHTML = `<h3>You scored ${score} out of ${currentQuestions.length}</h3>`;
 }
