@@ -1,16 +1,16 @@
 [
     {
-        "question": "What is the correct sequence of organs in the human alimentary canal? (\u092e\u093e\u0928\u0935 \u0905\u0928\u094d\u0928\u0928\u0932\u093f\u0915\u0947\u0924\u0940\u0932 \u092f\u094b\u0917\u094d\u092f \u0915\u094d\u0930\u092e \u0915\u093e\u092f \u0906\u0939\u0947?)",
+        "question": "What is the correct sequence of organs in the human alimentary canal? (मानव अन्‍ननलिकेतिल योग्य क्रम काय आहे?)",
         "options": [
-            "Mouth \u2192 Pharynx \u2192 Stomach \u2192 Esophagus \u2192 Anus",
-            "Mouth \u2192 Esophagus \u2192 Stomach \u2192 Small Intestine \u2192 Large Intestine \u2192 Anus",
-            "Mouth \u2192 Pharynx \u2192 Small Intestine \u2192 Esophagus \u2192 Rectum",
-            "Mouth \u2192 Large Intestine \u2192 Stomach \u2192 Esophagus \u2192 Anus"
+            "Mouth → Pharynx → Stomach → Esophagus → Anus",
+            "Mouth → Esophagus → Stomach → Small Intestine → Large Intestine → Anus",
+            "Mouth → Pharynx → Small Intestine → Esophagus → Rectum",
+            "Mouth → Large Intestine → Stomach → Esophagus → Anus"
         ],
-        "answer": "Mouth \u2192 Esophagus \u2192 Stomach \u2192 Small Intestine \u2192 Large Intestine \u2192 Anus"
+        "answer": "Mouth → Esophagus → Stomach → Small Intestine → Large Intestine → Anus"
     },
     {
-        "question": "In which part of the digestive system does most nutrient absorption occur? (\u092a\u091a\u0928\u0938\u0902\u0938\u094d\u0925\u0947\u0924\u0940\u0932 \u092a\u094b\u0937\u0923\u0926\u094d\u0930\u0935\u094d\u092f\u093e\u0902\u091a\u0947 \u091c\u093e\u0938\u094d\u0924\u0940\u0924 \u091c\u093e\u0938\u094d\u0924 \u0936\u094b\u0937\u0923 \u0915\u094b\u0920\u0947 \u0939\u094b\u0924\u0947?)",
+        "question": "In which part of the digestive system does most nutrient absorption occur? (पचनसंस्थेतील पोषकद्रव्यांचे जास्तीत जास्त संशोषण कोठे होते?)",
         "options": [
             "Stomach",
             "Large Intestine",
@@ -20,7 +20,7 @@
         "answer": "Small Intestine"
     },
     {
-        "question": "Which of the following is not a part of the small intestine? (\u0916\u093e\u0932\u0940\u0932\u092a\u0948\u0915\u0940 \u0915\u094b\u0923\u0924\u0947 \u0932\u0939\u093e\u0928 \u0906\u0924\u0921\u094d\u092f\u093e\u091a\u093e \u092d\u093e\u0917 \u0928\u093e\u0939\u0940?)",
+        "question": "Which of the following is not a part of the small intestine? (खालीलपैकी कोणते लहान आतड्याचा भाग नाही?)",
         "options": [
             "Duodenum",
             "Ileum",
@@ -30,7 +30,7 @@
         "answer": "Caecum"
     },
     {
-        "question": "What is the function of the salivary glands? (\u0932\u093e\u0933 \u0917\u094d\u0930\u0902\u0925\u0940\u091a\u0947 \u0915\u093e\u0930\u094d\u092f \u0915\u093e\u092f \u0906\u0939\u0947?)",
+        "question": "What is the function of the salivary glands? (लाळ ग्रंथीचे कार्य काय आहे?)",
         "options": [
             "Absorb water",
             "Produce bile",
@@ -40,7 +40,7 @@
         "answer": "Secrete enzymes to start digestion in mouth"
     },
     {
-        "question": "Which organ stores bile temporarily? (\u0915\u093e\u092f\u092a\u093f\u0924\u094d\u0924\u093e\u091a\u093e \u0924\u093e\u0924\u094d\u092a\u0941\u0930\u0924\u093e \u0938\u093e\u0920\u0935\u0923\u0942\u0915 \u0915\u0930\u0923\u093e\u0930\u093e \u0905\u0935\u092f\u0935 \u0915\u094b\u0923\u0924\u093e?)",
+        "question": "Which organ stores bile temporarily? (कायपित्ताचा तात्पुरता साठवणूक करणारा अवयव कोणता?)",
         "options": [
             "Liver",
             "Pancreas",
@@ -50,7 +50,7 @@
         "answer": "Gallbladder"
     },
     {
-        "question": "What is the total length of the human alimentary canal? (\u092e\u093e\u0928\u0935 \u0905\u0928\u094d\u0928\u0928\u0932\u093f\u0915\u0947\u091a\u0940 \u090f\u0915\u0942\u0923 \u0932\u093e\u0902\u092c\u0940 \u0915\u093f\u0924\u0940 \u0906\u0939\u0947?)",
+        "question": "What is the total length of the human alimentary canal? (मानव अन्‍ननलिकेची एकूण लांबी किती आहे?)",
         "options": [
             "5 meters",
             "7 meters",
@@ -60,7 +60,7 @@
         "answer": "10 meters"
     },
     {
-        "question": "What is the main function of the large intestine? (\u092e\u094b\u0920\u094d\u092f\u093e \u0906\u0924\u0921\u094d\u092f\u093e\u091a\u0947 \u092e\u0941\u0916\u094d\u092f \u0915\u093e\u0930\u094d\u092f \u0915\u093e\u092f \u0906\u0939\u0947?)",
+        "question": "What is the main function of the large intestine? (मोठ्या आतड्याचे मुख्य कार्य काय आहे?)",
         "options": [
             "Food digestion",
             "Water absorption",
@@ -70,7 +70,7 @@
         "answer": "Water absorption"
     },
     {
-        "question": "Which part connects the mouth and esophagus? (\u0924\u094b\u0902\u0921 \u0906\u0923\u093f \u0905\u0928\u094d\u0928\u0928\u0932\u093f\u0915\u093e \u092f\u093e\u0902\u0928\u093e \u091c\u094b\u0921\u0923\u093e\u0930\u093e \u092d\u093e\u0917 \u0915\u094b\u0923\u0924\u093e \u0906\u0939\u0947?)",
+        "question": "Which part connects the mouth and esophagus? (तोंड आणि अन्ननलिका यांना जोडणारा भाग कोणता आहे?)",
         "options": [
             "Pharynx",
             "Duodenum",
@@ -108,17 +108,16 @@
             "1 and 2 only"
         ],
         "answer": "1 only"
-
     },
     {
         "question": "With reference to digestion, which of the following enzyme-function pairs is incorrect?",
         "options": [
-            "Amylase \u2013 Breaks down starch",
-            "Pepsin \u2013 Acts on fats in stomach",
-            "Lipase \u2013 Acts on lipids",
-            "Trypsin \u2013 Acts on proteins"
+            "Amylase – Breaks down starch",
+            "Pepsin – Acts on fats in stomach",
+            "Lipase – Acts on lipids",
+            "Trypsin – Acts on proteins"
         ],
-        "answer": "Pepsin \u2013 Acts on fats in stomach"
+        "answer": "Pepsin – Acts on fats in stomach"
     },
     {
         "question": "In the human digestive system, which organ is not directly involved in digestion but contributes to the process through secretions?",
