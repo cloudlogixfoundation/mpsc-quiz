@@ -21,16 +21,22 @@
   </script>
 </head>
 <body>
-  <nav class="navbar">
-    <h2>MPSC Subjectwise Quiz</h2>
-    <ul id="subject-nav">
+  <div class="sidebar" role="navigation">
+    <h2>Subjects</h2>
+    <ul>
       <li><a href="#" onclick="loadSubject('science')">Science</a></li>
+      <li><a href="index.html">Home</a></li>
     </ul>
-  </nav>
+  </div>
 
   <div class="main">
     <h1>Welcome to the MCQ Quiz!</h1>
-    <p>Select a subject from the left to begin the quiz.</p>
+    <h3>Select a subject from the left to begin the quiz.</h3>
+    <p>Science plays a vital role in competitive exams like MPSC, UPSC, SSC, and state-level services. Questions from Physics, Chemistry, Biology, and Environmental Science test not only factual knowledge but also conceptual understanding and application. Whether it's the laws of motion, human anatomy, basic chemistry, or recent scientific developments, mastering science strengthens general awareness and analytical ability. A solid grasp of science helps aspirants score well in the Prelims and enhances essay writing and interview discussions with scientific reasoning and current relevance.</p>
+    <div id="quiz" role="form"></div>
+    <button id="submit-btn" onclick="submitQuiz()" aria-label="Submit Quiz" style="display: none;">Submit</button>
+    <button id="retry-btn" onclick="retryQuiz()" aria-label="Retry Quiz" style="display: none;">Retry</button>
+    <div id="result" role="status"></div>
   </div>
 
   <script src="script.js"></script>
