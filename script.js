@@ -4,22 +4,28 @@ window.onload = function () {
   const urlParams = new URLSearchParams(window.location.search);
   const subject = urlParams.get("subject");
 
-  if (subject) {
-    const filePath = `data/${subject}.json`; // ✅ must use forward slashes
-    fetch(filePath)
-      .then((response) => response.json())
-      .then((data) => {
-        currentQuestions = data;
-        displayQuestions();
-        document.getElementById("result").innerHTML = "";
-      })
-      .catch((error) => {
-        console.error("Error loading quiz data:", error);
-        document.getElementById("quiz").innerHTML = "<p>Failed to load questions.</p>";
-      });
-  } else {
-    document.getElementById("quiz").innerHTML = "<p>No subject specified.</p>";
+  if (!subject) {
+    document.getElementById("quiz").innerHTML = "<p style='color: red;'>❌ No subject specified in the URL. Please select a subject from the home page.</p>";
+    return;
   }
+
+  const filePath = `data/${subject}.json`; // Correct for Netlify/GitHub
+
+  fetch(filePath)
+    .then((response) => {
+      if (!response.ok) {
+        throw new Error("Quiz file not found.");
+      }
+      return response.json();
+    })
+    .then((data) => {
+      currentQuestions = data;
+      displayQuestions();
+      document.getElementById("result").innerHTML = "";
+    })
+    .catch((error) => {
+      document.getElementById("quiz").innerHTML = `<p style="color:red;">⚠️ Failed to load quiz data: ${error.message}</p>`;
+    });
 };
 
 function displayQuestions() {
@@ -41,7 +47,6 @@ function displayQuestions() {
     quizContainer.appendChild(qDiv);
   });
 
-  // ✅ Add Submit and Retry buttons
   const btnContainer = document.createElement("div");
   btnContainer.innerHTML = `
     <button onclick="submitQuiz()">Submit</button>
@@ -56,19 +61,11 @@ function submitQuiz() {
     const selected = document.querySelector(`input[name="q${i}"]:checked`);
     const allOptions = document.getElementsByName(`q${i}`);
 
-    if (selected) {
-      if (selected.value === q.answer) {
-        selected.parentElement.classList.add("correct");
-        score++;
-      } else {
-        selected.parentElement.classList.add("wrong");
-        allOptions.forEach((opt) => {
-          if (opt.value === q.answer) {
-            opt.parentElement.classList.add("correct");
-          }
-        });
-      }
+    if (selected && selected.value === q.answer) {
+      selected.parentElement.classList.add("correct");
+      score++;
     } else {
+      if (selected) selected.parentElement.classList.add("wrong");
       allOptions.forEach((opt) => {
         if (opt.value === q.answer) {
           opt.parentElement.classList.add("correct");
@@ -77,9 +74,8 @@ function submitQuiz() {
     }
   });
 
-  const result = document.getElementById("result");
   const percent = Math.round((score / currentQuestions.length) * 100);
-  result.innerHTML = `<h3>You scored ${score} out of ${currentQuestions.length} (${percent}%)</h3>`;
+  document.getElementById("result").innerHTML = `<h3>You scored ${score} out of ${currentQuestions.length} (${percent}%)</h3>`;
 }
 
 function retryQuiz() {
