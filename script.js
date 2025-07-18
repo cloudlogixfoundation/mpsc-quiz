@@ -9,7 +9,7 @@
     }
 
     // Update the path if JSON files are stored in a subdirectory
-    const filePath = `.\\data\\${subject}.json`; // Assuming JSON files are in the root directory
+    const filePath = `data/${subject}.json`; // Assuming JSON files are in the root directory
 
     fetch(filePath)
       .then(response => {
