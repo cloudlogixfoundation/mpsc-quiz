@@ -5,26 +5,23 @@ window.onload = function () {
   const subject = urlParams.get("subject");
 
   if (!subject) {
-    document.getElementById("quiz").innerHTML = "<p style='color: red;'>❌ No subject specified in the URL. Please select a subject from the home page.</p>";
+    document.getElementById("quiz").innerHTML = "<p style='color: red;'>❌ No subject specified in URL.</p>";
     return;
   }
 
-  const filePath = `data/${subject}.json`; // Correct for Netlify/GitHub
+  const filePath = `data/${subject}.json`;
 
   fetch(filePath)
     .then((response) => {
-      if (!response.ok) {
-        throw new Error("Quiz file not found.");
-      }
+      if (!response.ok) throw new Error("File not found");
       return response.json();
     })
     .then((data) => {
       currentQuestions = data;
       displayQuestions();
-      document.getElementById("result").innerHTML = "";
     })
     .catch((error) => {
-      document.getElementById("quiz").innerHTML = `<p style="color:red;">⚠️ Failed to load quiz data: ${error.message}</p>`;
+      document.getElementById("quiz").innerHTML = `<p style="color:red;">⚠️ Error: ${error.message}</p>`;
     });
 };
 
@@ -57,6 +54,7 @@ function displayQuestions() {
 
 function submitQuiz() {
   let score = 0;
+
   currentQuestions.forEach((q, i) => {
     const selected = document.querySelector(`input[name="q${i}"]:checked`);
     const allOptions = document.getElementsByName(`q${i}`);
