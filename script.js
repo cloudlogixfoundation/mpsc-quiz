@@ -8,14 +8,20 @@
       return;
     }
 
-    fetch(subject + ".json")
+    // Update the path if JSON files are stored in a subdirectory
+    const filePath = `.\\data\\${subject}.json`; // Assuming JSON files are in the root directory
+
+    fetch(filePath)
       .then(response => {
         if (!response.ok) {
-          throw new Error("Failed to load questions. Please try again.");
+          throw new Error(`Failed to load ${filePath}. Please check the file path.`);
         }
         return response.json();
       })
       .then(data => {
+        if (!Array.isArray(data)) {
+          throw new Error("Invalid quiz data format.");
+        }
         currentQuestions = data;
         displayQuestions();
         document.getElementById("result").innerHTML = "";
@@ -30,6 +36,7 @@
     const button = document.createElement("button");
     button.textContent = text;
     button.onclick = onClickHandler;
+    button.setAttribute("aria-label", text);
     if (id) button.id = id;
     return button;
   }
@@ -37,6 +44,7 @@
   function displayQuestions() {
     const quizContainer = document.getElementById("quiz");
     quizContainer.innerHTML = "";
+    quizContainer.setAttribute("role", "form");
 
     const fragment = document.createDocumentFragment();
 
@@ -55,7 +63,6 @@
       fragment.appendChild(qDiv);
     });
 
-    // Add Submit and Retry buttons with unique IDs
     const btnContainer = document.createElement("div");
     btnContainer.appendChild(createButton("Submit", submitQuiz, "submit-btn"));
     btnContainer.appendChild(createButton("Retry", retryQuiz, "retry-btn"));
@@ -78,7 +85,6 @@
           score++;
         } else {
           selected.parentElement.classList.add("wrong");
-          // Highlight correct answer
           allOptions.forEach(opt => {
             if (opt.value === q.answer) {
               opt.parentElement.classList.add("correct");
@@ -97,7 +103,6 @@
       ${unanswered > 0 ? `<p>${unanswered} question(s) were unanswered.</p>` : ""}
     `;
 
-    // Disable submit button after submission
     const submitBtn = document.getElementById("submit-btn");
     if (submitBtn) submitBtn.disabled = true;
   }
@@ -107,6 +112,5 @@
     document.getElementById("result").innerHTML = "";
   }
 
-  // Expose only loadSubject if needed externally
   window.loadSubject = loadSubject;
 })();
