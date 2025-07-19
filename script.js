@@ -1,4 +1,5 @@
 let currentQuestions = [];
+let startTime;
 
 window.onload = function () {
   const urlParams = new URLSearchParams(window.location.search);
@@ -30,6 +31,7 @@ if (!subject) {
 };
 
 function displayQuestions() {
+  startTime = new Date();
   const quizContainer = document.getElementById("quiz");
   quizContainer.innerHTML = "";
 
@@ -78,6 +80,16 @@ function submitQuiz() {
 
   const percent = Math.round((score / currentQuestions.length) * 100);
   document.getElementById("result").innerHTML = `<h3>You scored ${score} out of ${currentQuestions.length} (${percent}%)</h3>`;
+
+  const endTime = new Date();
+const timeTaken = Math.floor((endTime - startTime) / 1000); // in seconds
+
+const minutes = Math.floor(timeTaken / 60);
+const seconds = timeTaken % 60;
+
+document.getElementById("result").innerHTML += `
+  <p>🕒 Time Taken: ${minutes} minute${minutes !== 1 ? "s" : ""} ${seconds} second${seconds !== 1 ? "s" : ""}</p>
+`;
 }
 
 function retryQuiz() {
