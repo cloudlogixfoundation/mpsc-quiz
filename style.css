@@ -181,4 +181,9 @@ button:hover {
   .option {
     margin-left: 0;
   }
+  #result p {
+  font-size: 16px;
+  margin-top: 10px;
+  color: #555;
+}
 }
