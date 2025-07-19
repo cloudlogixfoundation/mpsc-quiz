@@ -4,11 +4,15 @@ window.onload = function () {
   const urlParams = new URLSearchParams(window.location.search);
   const subject = urlParams.get("subject");
 
- if (!subject) {
-  document.getElementById("quiz").innerHTML = "<p style='color: red;'>❌ No subject specified in URL.</p>";
+if (!subject) {
+  document.getElementById("quiz").innerHTML = `
+    <div class="no-subject">
+      <h2>📚 Choose a Subject</h2>
+      <p>Please use the navigation above to select a subject to begin your quiz.</p>
+    </div>
+  `;
   return;
 }
-
   const filePath = `data/${subject}.json`;
 
   fetch(filePath)
