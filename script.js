@@ -1,18 +1,16 @@
+
 let currentQuestions = [];
 let startTime;
 
-const subject = new URLSearchParams(window.location.search).get('subject');
-if (!subject) {
-  document.addEventListener("DOMContentLoaded", () => {
-    document.getElementById("quiz").innerHTML = `
-      <div class="no-subject">
-        <h2>📚 Choose a Subject</h2>
-        <p>Please use the navigation above to select a subject to begin your quiz.</p>
-      </div>
-    `;
-  });
+const params = new URLSearchParams(window.location.search);
+const subject = params.get("subject");
+const test = params.get("test");
+
+if (!subject || !test) {
+  document.getElementById("quiz").innerHTML = "<p>No subject or test specified.</p>";
 } else {
-  fetch(`data/${subject}.json`)
+  const filePath = `data/${subject}/${test}.json`;
+  fetch(filePath)
     .then(res => res.json())
     .then(data => {
       currentQuestions = data;
@@ -40,6 +38,9 @@ function displayQuestions() {
 
     quizContainer.appendChild(qDiv);
   });
+
+  document.getElementById("submit-btn").style.display = "inline-block";
+  document.getElementById("retry-btn").style.display = "none";
 }
 
 function submitQuiz() {
@@ -69,4 +70,11 @@ function submitQuiz() {
     <h3>You scored ${score} out of ${currentQuestions.length}</h3>
     <p>🕒 Time Taken: ${minutes} minute${minutes !== 1 ? "s" : ""} ${seconds} second${seconds !== 1 ? "s" : ""}</p>
   `;
+
+  document.getElementById("submit-btn").style.display = "none";
+  document.getElementById("retry-btn").style.display = "inline-block";
+}
+
+function retryQuiz() {
+  window.location.reload();
 }
