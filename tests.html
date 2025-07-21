@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Choose Test</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+  <div class="container-fluid">
+    <div class="row min-vh-100">
+      <!-- Sidebar -->
+      <nav class="col-md-3 bg-dark text-white p-3">
+        <h4 class="text-white">Menu</h4>
+        <ul class="nav flex-column">
+          <li class="nav-item"><a href="index.html" class="nav-link text-white">🏠 Home</a></li>
+          <li class="nav-item">
+            <a class="nav-link text-white" data-bs-toggle="collapse" href="#subjects" role="button">📚 Subjects</a>
+            <div class="collapse" id="subjects">
+              <ul class="nav flex-column ms-3">
+                <li class="nav-item"><a href="tests.html?subject=science" class="nav-link text-white">Science</a></li>
+                <!-- Add more subjects as needed -->
+              </ul>
+            </div>
+          </li>
+        </ul>
+      </nav>
+
+      <!-- Main Content -->
+      <main class="col-md-9 p-4">
+        <h1 id="heading">Choose a Test</h1>
+        <div id="test-list" class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4"></div>
+      </main>
+    </div>
+  </div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const subject = params.get("subject");
+    const heading = document.getElementById("heading");
+    const testList = document.getElementById("test-list");
+
+    if (!subject) {
+      heading.textContent = "No subject selected.";
+    } else {
+      heading.textContent = subject.charAt(0).toUpperCase() + subject.slice(1) + " Tests";
+      const manifestUrl = `data/${subject}/manifest.json`;
+
+      fetch(manifestUrl)
+        .then(res => res.json())
+        .then(data => {
+          if (!data.tests || data.tests.length === 0) {
+            testList.innerHTML = "<div class='col'><div class='alert alert-warning'>No tests available.</div></div>";
+            return;
+          }
+
+          data.tests.forEach(test => {
+            const card = document.createElement("div");
+            card.className = "col";
+            card.innerHTML = `
+              <div class="card h-100 shadow-sm border-primary">
+                <div class="card-body">
+                  <h5 class="card-title text-primary">${test.title}</h5>
+                  <p class="card-text">${test.description || "No description available."}</p>
+                  <p class="card-text"><strong>Questions:</strong> ${test.questions || "N/A"}</p>
+                  <a href="quiz.html?subject=${subject}&test=${test.id}" class="btn btn-primary mt-2">Start Test</a>
+                </div>
+              </div>
+            `;
+            testList.appendChild(card);
+          });
+        })
+        .catch(err => {
+          testList.innerHTML = `<div class='col'><div class='alert alert-danger'>Error loading tests: ${err.message}</div></div>`;
+        });
+    }
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
