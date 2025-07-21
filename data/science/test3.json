@@ -1,0 +1,153 @@
+[
+    {
+      "question": "How many pairs of salivary glands are present in mammals?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "Which of the following is NOT a main saliva-producing gland in humans?",
+      "options": [
+        "Parotid",
+        "Submandibular",
+        "Sublingual",
+        "Zygomatic"
+      ],
+      "answer": "Zygomatic"
+    },
+    {
+      "question": "What is the approximate length of the human esophagus?",
+      "options": [
+        "10 cm",
+        "25 cm",
+        "40 cm",
+        "50 cm"
+      ],
+      "answer": "25 cm"
+    },
+    {
+      "question": "Which enzyme in gastric juice converts proteins to amino acids?",
+      "options": [
+        "Lipase",
+        "Amylase",
+        "Pepsin",
+        "Trypsin"
+      ],
+      "answer": "Pepsin"
+    },
+    {
+      "question": "Where are taste buds for bitter taste located on the tongue?",
+      "options": [
+        "Tip",
+        "Sides",
+        "Inner end",
+        "Center"
+      ],
+      "answer": "Inner end"
+    },
+    {
+      "question": "What is the partially digested food in the stomach called?",
+      "options": [
+        "Chyme",
+        "Bolus",
+        "Chyle",
+        "Pepsin"
+      ],
+      "answer": "Chyme"
+    },
+    {
+      "question": "Which gland secretes the enzyme rennin in infants?",
+      "options": [
+        "Salivary glands",
+        "Pancreas",
+        "Gastric glands",
+        "Liver"
+      ],
+      "answer": "Gastric glands"
+    },
+    {
+      "question": "What is the pH range of pancreatic juice?",
+      "options": [
+        "6.8-7.2",
+        "7.8-8.3",
+        "5.0-6.0",
+        "8.5-9.0"
+      ],
+      "answer": "7.8-8.3"
+    },
+    {
+      "question": "Which cells in the small intestine secrete the hormone secretin?",
+      "options": [
+        "Paneth cells",
+        "Argentaffin cells",
+        "Goblet cells",
+        "Parietal cells"
+      ],
+      "answer": "Argentaffin cells"
+    },
+    {
+      "question": "How many wisdom teeth does an adult human typically have?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "Which clinical condition causes excessive sweating on the forehead and neck during eating?",
+      "options": [
+        "Frey's syndrome",
+        "Crohn's disease",
+        "GERD",
+        "IBS"
+      ],
+      "answer": "Frey's syndrome"
+    },
+    {
+      "question": "What is the function of the enzyme enterogastrone?",
+      "options": [
+        "Stimulates acid production",
+        "Converts casein to paracasein",
+        "Reduces acid synthesis by stomach",
+        "Digests carbohydrates"
+      ],
+      "answer": "Reduces acid synthesis by stomach"
+    },
+    {
+      "question": "Which of the following glands are present in the duodenum?",
+      "options": [
+        "Crypts of Lieberkuhn",
+        "Brunner's glands",
+        "Ebner's glands",
+        "Parotid glands"
+      ],
+      "answer": "Brunner's glands"
+    },
+    {
+      "question": "What is the dental formula for adult humans?",
+      "options": [
+        "2103/2103",
+        "2122/2122",
+        "2123/2123",
+        "2112/2112"
+      ],
+      "answer": "2123/2123"
+    },
+    {
+      "question": "Which component of gastric juice protects the stomach wall from HCl?",
+      "options": [
+        "Pepsin",
+        "Mucus",
+        "Lipase",
+        "Rennin"
+      ],
+      "answer": "Mucus"
+    }
+]
+

@@ -1,0 +1,153 @@
+
+[
+    {
+      "question": "Consider the following statements about human salivary glands:\n1. Humans have three pairs of major salivary glands\n2. Zygomatic glands are present in humans\n3. Ebner's glands secrete lipase\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 and 2 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1 and 3 only"
+    },
+    {
+      "question": "The enzyme pepsin in gastric juice requires which of the following for its proper functioning?",
+      "options": [
+        "Alkaline medium",
+        "Neutral medium",
+        "Acidic medium",
+        "Both alkaline and acidic medium alternately"
+      ],
+      "answer": "Acidic medium"
+    },
+    {
+      "question": "Which of the following is the correct sequence of parts of the small intestine?",
+      "options": [
+        "Duodenum - Jejunum - Ileum",
+        "Jejunum - Duodenum - Ileum",
+        "Ileum - Duodenum - Jejunum",
+        "Duodenum - Ileum - Jejunum"
+      ],
+      "answer": "Duodenum - Jejunum - Ileum"
+    },
+    {
+      "question": "The condition known as Frey's syndrome is caused due to:",
+      "options": [
+        "Defect in nerve supply of sublingual gland",
+        "Defect in nerve supply of parotid gland",
+        "Excessive secretion of gastric juice",
+        "Blockage of pancreatic duct"
+      ],
+      "answer": "Defect in nerve supply of parotid gland"
+    },
+    {
+      "question": "Which of the following statements about human teeth is NOT correct?",
+      "options": [
+        "Enamel is the hardest coat of teeth",
+        "Wisdom teeth are considered vestigial",
+        "Human dentition is described as diphyodont",
+        "Adults have 28 permanent teeth"
+      ],
+      "answer": "Adults have 28 permanent teeth"
+    },
+    {
+      "question": "Consider the following statements about gastric glands:\n1. They secrete mucus\n2. They secrete hydrochloric acid\n3. They secrete pepsinogen\nWhich of the above statements are correct?",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1, 2 and 3"
+    },
+    {
+      "question": "Which of the following glands is correctly matched with its secretion?",
+      "options": [
+        "Pancreas - Bile juice",
+        "Liver - Pancreatic juice",
+        "Brunner's glands - Mucus",
+        "Crypts of Lieberkuhn - Hydrochloric acid"
+      ],
+      "answer": "Brunner's glands - Mucus"
+    },
+    {
+      "question": "The partially digested food that passes from stomach to intestine is called:",
+      "options": [
+        "Bolus",
+        "Chyme",
+        "Chyle",
+        "Pepsin"
+      ],
+      "answer": "Chyme"
+    },
+    {
+      "question": "Which of the following statements about the human digestive system is correct?",
+      "options": [
+        "Digestion of carbohydrates begins in stomach",
+        "Maximum absorption of food occurs in duodenum",
+        "Bile juice provides alkaline medium in small intestine",
+        "No digestion occurs in mouth"
+      ],
+      "answer": "Bile juice provides alkaline medium in small intestine"
+    },
+    {
+      "question": "The enzyme enterogastrone functions to:",
+      "options": [
+        "Stimulate acid production in stomach",
+        "Neutralize acid in duodenum",
+        "Reduce acid synthesis by stomach",
+        "Digest proteins in small intestine"
+      ],
+      "answer": "Reduce acid synthesis by stomach"
+    },
+    {
+      "question": "Which of the following is not a component of pancreatic juice?",
+      "options": [
+        "Amylase",
+        "Trypsin",
+        "Lipase",
+        "Pepsin"
+      ],
+      "answer": "Pepsin"
+    },
+    {
+      "question": "Consider the following statements:\n1. The pharynx is common passage for both food and air\n2. Epiglottis prevents food from entering trachea\n3. Tonsils form Waldeyer's ring\nWhich of the statements given above are correct?",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1, 2 and 3"
+    },
+    {
+      "question": "Which of the following cells in small intestine produce lysozyme?",
+      "options": [
+        "Argentaffin cells",
+        "Paneth cells",
+        "Goblet cells",
+        "Parietal cells"
+      ],
+      "answer": "Paneth cells"
+    },
+    {
+      "question": "The normal amount of fluorine in drinking water should be:",
+      "options": [
+        "0.5 ppm",
+        "0.8 ppm",
+        "1.2 ppm",
+        "1.5 ppm"
+      ],
+      "answer": "0.8 ppm"
+    },
+    {
+      "question": "Which of the following is not a function of mucus in digestive system?",
+      "options": [
+        "Protect stomach wall from HCl",
+        "Lubricate food passage",
+        "Provide alkaline medium in small intestine",
+        "Protect esophagus from mechanical damage"
+      ],
+      "answer": "Provide alkaline medium in small intestine"
+    }
+  ]

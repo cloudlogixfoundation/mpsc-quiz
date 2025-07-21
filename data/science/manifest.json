@@ -1,0 +1,10 @@
+{
+    "tests": [
+      { "id": "test1", "title": "Test 1", "description":"Question on digestive systems","questions":15},
+      { "id": "test2", "title": "Test 2", "description":"Covers fundamental to complex concepts of human digestive system including glands, enzymes, and organ functions","questions":15},
+      { "id": "test3", "title": "Test 3", "description":"Exam-oriented questions mimicking Maharashtra Public Service Commission pattern with statement-based and application questions.","questions":15},
+      { "id": "test4", "title": "Test 4", "description":"Supplementary set focusing on clinical conditions, anatomical details, and physiological processes of digestion.","questions":15},
+      { "id": "test5", "title": "Test 5", "description":"Comprehensive assessment covering salivary glands to intestinal absorption with varying difficulty levels.","questions":15}
+    ]
+  }
+  

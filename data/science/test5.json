@@ -1,0 +1,152 @@
+ [
+    {
+      "question": "Which of the following is the primary function of the epiglottis?",
+      "options": [
+        "Production of digestive enzymes",
+        "Prevention of food entry into trachea",
+        "Absorption of nutrients",
+        "Secretion of mucus"
+      ],
+      "answer": "Prevention of food entry into trachea"
+    },
+    {
+      "question": "The enzyme rennin, found in infants, is responsible for:",
+      "options": [
+        "Breaking down starch",
+        "Digesting milk proteins",
+        "Emulsifying fats",
+        "Neutralizing stomach acid"
+      ],
+      "answer": "Digesting milk proteins"
+    },
+    {
+      "question": "Consider the following statements about bile juice:\n1. It is produced by liver\n2. It is stored in pancreas\n3. It provides alkaline medium\nWhich of the statements given above is/are correct?",
+      "options": [
+        "1 only",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1 and 3 only"
+    },
+    {
+      "question": "Which part of the small intestine is primarily responsible for nutrient absorption?",
+      "options": [
+        "Duodenum",
+        "Jejunum",
+        "Ileum",
+        "All parts equally"
+      ],
+      "answer": "Ileum"
+    },
+    {
+      "question": "The dental formula 2123/2123 represents:",
+      "options": [
+        "Number of milk teeth in children",
+        "Number of permanent teeth in adults",
+        "Number of teeth in one jaw only",
+        "Number of wisdom teeth"
+      ],
+      "answer": "Number of permanent teeth in adults"
+    },
+    {
+      "question": "Which of the following is NOT a function of hydrochloric acid in stomach?",
+      "options": [
+        "Activation of pepsinogen",
+        "Killing harmful bacteria",
+        "Emulsification of fats",
+        "Providing acidic medium"
+      ],
+      "answer": "Emulsification of fats"
+    },
+    {
+      "question": "The taste buds for sweet taste are located at which part of the tongue?",
+      "options": [
+        "Tip",
+        "Sides",
+        "Back",
+        "Center"
+      ],
+      "answer": "Tip"
+    },
+    {
+      "question": "What is the approximate daily secretion of saliva in humans?",
+      "options": [
+        "500 ml",
+        "1.5 liters",
+        "3 liters",
+        "5 liters"
+      ],
+      "answer": "1.5 liters"
+    },
+    {
+      "question": "Which of the following glands is NOT present in humans?",
+      "options": [
+        "Parotid",
+        "Submandibular",
+        "Sublingual",
+        "Zygomatic"
+      ],
+      "answer": "Zygomatic"
+    },
+    {
+      "question": "The rhythmic contraction and relaxation of stomach muscles is called:",
+      "options": [
+        "Digestion",
+        "Peristalsis",
+        "Segmentation",
+        "Emulsification"
+      ],
+      "answer": "Peristalsis"
+    },
+    {
+      "question": "Which of the following enzymes is NOT present in pancreatic juice?",
+      "options": [
+        "Amylase",
+        "Trypsin",
+        "Lipase",
+        "Pepsin"
+      ],
+      "answer": "Pepsin"
+    },
+    {
+      "question": "The condition caused by excessive fluorine in drinking water is called:",
+      "options": [
+        "Dental caries",
+        "Dental fluorosis",
+        "Frey's syndrome",
+        "Peptic ulcer"
+      ],
+      "answer": "Dental fluorosis"
+    },
+    {
+      "question": "Which of the following cells secrete mucus in the esophagus?",
+      "options": [
+        "Parietal cells",
+        "Chief cells",
+        "Goblet cells",
+        "Paneth cells"
+      ],
+      "answer": "Goblet cells"
+    },
+    {
+      "question": "The term 'diphyodont dentition' refers to:",
+      "options": [
+        "Having different types of teeth",
+        "Having two sets of teeth in lifetime",
+        "Having extra wisdom teeth",
+        "Having missing molars"
+      ],
+      "answer": "Having two sets of teeth in lifetime"
+    },
+    {
+      "question": "Which of the following is the correct pH range for saliva?",
+      "options": [
+        "4.5-5.5",
+        "6.8",
+        "7.4-7.6",
+        "8.0-8.5"
+      ],
+      "answer": "6.8"
+    }
+  ]
