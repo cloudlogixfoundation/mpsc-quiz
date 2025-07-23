@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Select the best option: Which factor does NOT directly affect the rate of evaporation?",
+    "options": ["Surface area", "Wind speed", "Humidity", "Mass of substance"],
+    "answer": "Mass of substance"
+  },
+  {
+    "question": "Select the best option: Which of the following is an example of sublimation?",
+    "options": ["Boiling of water", "Condensation of steam", "Melting of ice", "Conversion of camphor to vapour"],
+    "answer": "Conversion of camphor to vapour"
+  },
+  {
+    "question": "Select the best option: Which temperature scale is commonly used in scientific work due to its absolute nature?",
+    "options": ["Celsius", "Fahrenheit", "Kelvin", "Réaumur"],
+    "answer": "Kelvin"
+  },
+  {
+    "question": "Select the best option: Which law explains the inverse relationship between pressure and volume of a gas at constant temperature?",
+    "options": ["Charles’s Law", "Boyle’s Law", "Avogadro’s Law", "Gay-Lussac’s Law"],
+    "answer": "Boyle’s Law"
+  },
+  {
+    "question": "Select the best option: What is the boiling point of copper?",
+    "options": ["1083°C", "2310°C", "2562°C", "2700°C"],
+    "answer": "2562°C"
+  },
+  {
+    "question": "Select the best option: Which of the following has the lowest specific heat capacity?",
+    "options": ["Water", "Copper", "Mercury", "Silver"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "Select the best option: What is the SI unit of pressure used in gas laws?",
+    "options": ["Pascal", "Bar", "atm", "mmHg"],
+    "answer": "Pascal"
+  },
+  {
+    "question": "Select the best option: Which statement about plasma is correct?",
+    "options": [
+      "It exists at room temperature",
+      "It has fixed shape and volume",
+      "It consists of ionised gas particles",
+      "It is incompressible like solids"
+    ],
+    "answer": "It consists of ionised gas particles"
+  },
+  {
+    "question": "Select the best option: What is the latent heat of fusion of ice?",
+    "options": ["334 kJ/kg", "2260 kJ/kg", "4184 J/kg°C", "1043 kJ/kg"],
+    "answer": "334 kJ/kg"
+  },
+  {
+    "question": "Select the best option: Which thermometer is used to measure human body temperature?",
+    "options": ["Digital thermometer", "Mercury thermometer", "Clinical thermometer", "Alcohol thermometer"],
+    "answer": "Clinical thermometer"
+  }
+]

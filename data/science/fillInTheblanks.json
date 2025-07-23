@@ -1,0 +1,52 @@
+[
+  {
+    "question": "The SI unit of pressure is ______.",
+    "options": ["Pascal", "Bar", "atm", "Newton"],
+    "answer": "Pascal"
+  },
+  {
+    "question": "The boiling point of water on the Kelvin scale is ______.",
+    "options": ["273 K", "0 K", "373 K", "100 K"],
+    "answer": "373 K"
+  },
+  {
+    "question": "The process in which a solid directly changes into gas without becoming liquid is called ______.",
+    "options": ["Evaporation", "Condensation", "Sublimation", "Melting"],
+    "answer": "Sublimation"
+  },
+  {
+    "question": "In Boyle’s Law, the product of pressure and volume at constant temperature is a ______.",
+    "options": ["Zero", "Constant", "Variable", "Negative value"],
+    "answer": "Constant"
+  },
+  {
+    "question": "______ thermometer is used to measure human body temperature.",
+    "options": ["Laboratory", "Clinical", "Digital", "Room"],
+    "answer": "Clinical"
+  },
+  {
+    "question": "Plasma state contains ______ particles.",
+    "options": ["Neutral", "Solid", "Ionized", "Compressed"],
+    "answer": "Ionized"
+  },
+  {
+    "question": "During melting, the temperature of the substance remains ______.",
+    "options": ["Decreasing", "Constant", "Increasing", "Unstable"],
+    "answer": "Constant"
+  },
+  {
+    "question": "Mercury is used in thermometers because it expands ______ with temperature.",
+    "options": ["Linearly", "Randomly", "Slowly", "Irregularly"],
+    "answer": "Linearly"
+  },
+  {
+    "question": "The specific heat capacity of water is ______ J/kg°C.",
+    "options": ["100", "1", "4186", "273"],
+    "answer": "4186"
+  },
+  {
+    "question": "Charles’s Law relates volume and ______ at constant pressure.",
+    "options": ["Mass", "Temperature", "Density", "Area"],
+    "answer": "Temperature"
+  }
+]

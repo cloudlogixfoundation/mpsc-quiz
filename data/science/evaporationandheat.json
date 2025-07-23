@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Which factor does NOT directly affect the rate of evaporation?",
+    "options": ["Surface area", "Wind speed", "Humidity", "Density of liquid"],
+    "answer": "Density of liquid"
+  },
+  {
+    "question": "Why does ice at 0°C feel colder than water at 0°C?",
+    "options": [
+      "Water has more latent heat",
+      "Ice has less entropy",
+      "Latent heat is absorbed during melting",
+      "Water has higher density"
+    ],
+    "answer": "Latent heat is absorbed during melting"
+  },
+  {
+    "question": "What is the reason liquid nitrogen is used in preservation of blood and semen?",
+    "options": [
+      "It is chemically inert",
+      "It has a high latent heat of vaporization",
+      "It maintains extremely low temperatures",
+      "It absorbs carbon dioxide"
+    ],
+    "answer": "It maintains extremely low temperatures"
+  },
+  {
+    "question": "Which of the following substances shows both sublimation and deposition under normal conditions?",
+    "options": ["Dry ice", "Ammonium chloride", "Mercury", "Camphor"],
+    "answer": "Camphor"
+  },
+  {
+    "question": "Which unit is dimensionally equivalent to the specific heat capacity?",
+    "options": [
+      "Joules/kg",
+      "Joules/kg°C",
+      "Watts/kg",
+      "Joules/gram"
+    ],
+    "answer": "Joules/kg°C"
+  }
+]

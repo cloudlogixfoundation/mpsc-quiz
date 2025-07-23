@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Find the correct sequence of increasing temperature:\n(a) Absolute zero, (b) Freezing point of water, (c) Room temperature, (d) Boiling point of water",
+    "options": ["a, b, c, d", "b, a, c, d", "a, c, b, d", "c, b, a, d"],
+    "answer": "a, b, c, d"
+  },
+  {
+    "question": "Find the correct sequence of states in phase change when ice is heated:\n(a) Liquid, (b) Vapour, (c) Solid",
+    "options": ["c, a, b", "a, b, c", "b, a, c", "c, b, a"],
+    "answer": "c, a, b"
+  },
+  {
+    "question": "Find the correct sequence of substances in decreasing order of specific heat capacity:\n(a) Water, (b) Aluminium, (c) Iron, (d) Mercury",
+    "options": ["a, b, c, d", "a, c, b, d", "d, c, b, a", "a, d, b, c"],
+    "answer": "a, b, c, d"
+  },
+  {
+    "question": "Find the correct order of gas laws based on discovery:\n(a) Boyle’s Law, (b) Charles’s Law, (c) Gay-Lussac’s Law, (d) Avogadro’s Law",
+    "options": ["a, b, c, d", "b, a, d, c", "a, c, b, d", "c, a, b, d"],
+    "answer": "a, b, c, d"
+  },
+  {
+    "question": "Find the correct sequence of steps in the water cycle:\n(a) Evaporation, (b) Condensation, (c) Precipitation",
+    "options": ["a, b, c", "b, a, c", "c, b, a", "a, c, b"],
+    "answer": "a, b, c"
+  },
+  {
+    "question": "Find the correct sequence of conversion of matter with increase in energy:\n(a) Solid, (b) Liquid, (c) Gas, (d) Plasma",
+    "options": ["a, b, c, d", "d, c, b, a", "a, c, b, d", "b, a, d, c"],
+    "answer": "a, b, c, d"
+  },
+  {
+    "question": "Find the correct sequence of latent heat usage:\n(a) Fusion, (b) Vaporization, (c) Sublimation",
+    "options": ["a, b, c", "c, a, b", "a, c, b", "b, a, c"],
+    "answer": "a, b, c"
+  },
+  {
+    "question": "Find the correct order of increasing boiling points:\n(a) Ethyl Alcohol, (b) Water, (c) Copper, (d) Lead",
+    "options": ["a, b, d, c", "a, b, c, d", "b, a, d, c", "a, b, c, d"],
+    "answer": "a, b, d, c"
+  },
+  {
+    "question": "Find the correct sequence of temperature units in increasing value for boiling point of water:\n(a) Celsius, (b) Fahrenheit, (c) Kelvin, (d) Rankine",
+    "options": ["a, b, c, d", "a, c, b, d", "b, a, d, c", "c, a, d, b"],
+    "answer": "a, b, c, d"
+  },
+  {
+    "question": "Find the correct order of physical states based on compressibility (least to most):\n(a) Solid, (b) Liquid, (c) Gas",
+    "options": ["a, b, c", "b, c, a", "c, a, b", "b, a, c"],
+    "answer": "a, b, c"
+  }
+]

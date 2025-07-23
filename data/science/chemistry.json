@@ -1,0 +1,87 @@
+[
+  {
+    "question": "Which factor does NOT directly affect the rate of evaporation?",
+    "options": ["Surface area", "Wind speed", "Humidity", "Density of liquid"],
+    "answer": "Density of liquid"
+  },
+  {
+    "question": "Why does ice at 0°C feel colder than water at 0°C?",
+    "options": [
+      "Water has more latent heat",
+      "Ice has less entropy",
+      "Latent heat is absorbed during melting",
+      "Water has higher density"
+    ],
+    "answer": "Latent heat is absorbed during melting"
+  },
+  {
+    "question": "What is the reason liquid nitrogen is used in preservation of blood and semen?",
+    "options": [
+      "It is chemically inert",
+      "It has a high latent heat of vaporization",
+      "It maintains extremely low temperatures",
+      "It absorbs carbon dioxide"
+    ],
+    "answer": "It maintains extremely low temperatures"
+  },
+  {
+    "question": "Which statement correctly describes the behavior of real gases compared to ideal gases?",
+    "options": [
+      "Real gases obey Boyle’s Law at all pressures",
+      "Real gases behave ideally at low pressure and high temperature",
+      "Real gases have no volume",
+      "Ideal gases are more compressible than real gases"
+    ],
+    "answer": "Real gases behave ideally at low pressure and high temperature"
+  },
+  {
+    "question": "Which of the following substances shows both sublimation and deposition under normal conditions?",
+    "options": ["Dry ice", "Ammonium chloride", "Mercury", "Camphor"],
+    "answer": "Camphor"
+  },
+  {
+    "question": "In Bose-Einstein Condensate, the particles behave like:",
+    "options": [
+      "Independent particles with high kinetic energy",
+      "Atoms with strong intermolecular forces",
+      "A single quantum entity at very low temperature",
+      "Ionized plasma with free electrons"
+    ],
+    "answer": "A single quantum entity at very low temperature"
+  },
+  {
+    "question": "Which unit is dimensionally equivalent to the specific heat capacity?",
+    "options": [
+      "Joules/kg",
+      "Joules/kg°C",
+      "Watts/kg",
+      "Joules/gram"
+    ],
+    "answer": "Joules/kg°C"
+  },
+  {
+    "question": "Which gas law is directly applied when a balloon bursts as it rises in the atmosphere?",
+    "options": ["Boyle’s Law", "Charles’s Law", "Avogadro’s Law", "Graham’s Law"],
+    "answer": "Boyle’s Law"
+  },
+  {
+    "question": "The change of volume of a fixed mass of gas at constant pressure with temperature is governed by:",
+    "options": [
+      "Boyle’s Law",
+      "Charles’s Law",
+      "Gay-Lussac’s Law",
+      "Dalton’s Law"
+    ],
+    "answer": "Charles’s Law"
+  },
+  {
+    "question": "Which property explains why LPG remains a liquid inside the tank but becomes gas when released?",
+    "options": [
+      "High compressibility of gases",
+      "High intermolecular attraction in liquids",
+      "Liquefaction under pressure",
+      "Evaporation under low temperature"
+    ],
+    "answer": "Liquefaction under pressure"
+  }
+]

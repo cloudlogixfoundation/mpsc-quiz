@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Find the incorrect among the options: Which of the following affects the rate of evaporation?",
+    "options": ["Surface area", "Wind speed", "Humidity", "Mass of liquid"],
+    "answer": "Mass of liquid"
+  },
+  {
+    "question": "Find the incorrect among the options: Which of the following undergoes sublimation?",
+    "options": ["Ammonium chloride", "Camphor", "Ice", "Naphthalene"],
+    "answer": "Ice"
+  },
+  {
+    "question": "Find the incorrect among the options: Kelvin scale characteristics.",
+    "options": ["Starts from absolute zero", "Used in scientific experiments", "Has negative values", "273 K = 0°C"],
+    "answer": "Has negative values"
+  },
+  {
+    "question": "Find the incorrect among the options: Boyle’s Law statements.",
+    "options": [
+      "Applies at constant temperature",
+      "Pressure is inversely proportional to volume",
+      "Volume ∝ Temperature",
+      "P₁V₁ = P₂V₂"
+    ],
+    "answer": "Volume ∝ Temperature"
+  },
+  {
+    "question": "Find the incorrect among the options: Boiling points of substances.",
+    "options": ["Water - 100°C", "Copper - 2562°C", "Lead - 1749°C", "Mercury - 78°C"],
+    "answer": "Mercury - 78°C"
+  },
+  {
+    "question": "Find the incorrect among the options: Specific heat capacity values.",
+    "options": ["Water - 1.0", "Mercury - 0.033", "Iron - 0.45", "Aluminium - 0.215"],
+    "answer": "Iron - 0.45"
+  },
+  {
+    "question": "Find the incorrect among the options: Properties of gases.",
+    "options": [
+      "Have no fixed volume",
+      "Highly compressible",
+      "Particles tightly packed",
+      "Fill entire container"
+    ],
+    "answer": "Particles tightly packed"
+  },
+  {
+    "question": "Find the incorrect among the options: Plasma state characteristics.",
+    "options": [
+      "Exists at high temperature",
+      "Contains ionised particles",
+      "Has fixed shape",
+      "Found in fluorescent tubes"
+    ],
+    "answer": "Has fixed shape"
+  },
+  {
+    "question": "Find the incorrect among the options: Latent heat statements.",
+    "options": [
+      "It changes temperature of substance",
+      "It is required for state change",
+      "It is absorbed during melting",
+      "Measured in J/kg"
+    ],
+    "answer": "It changes temperature of substance"
+  },
+  {
+    "question": "Find the incorrect among the options: Thermometer types.",
+    "options": [
+      "Clinical thermometer measures body temperature",
+      "Digital thermometers contain mercury",
+      "Mercury is toxic",
+      "Infrared thermometers are contactless"
+    ],
+    "answer": "Digital thermometers contain mercury"
+  }
+]

@@ -1,10 +1,20 @@
 {
     "tests": [
-      { "id": "test1", "title": "Test 1", "description":"Question on digestive systems","questions":15},
-      { "id": "test2", "title": "Test 2", "description":"Covers fundamental to complex concepts of human digestive system including glands, enzymes, and organ functions","questions":15},
-      { "id": "test3", "title": "Test 3", "description":"Exam-oriented questions mimicking Maharashtra Public Service Commission pattern with statement-based and application questions.","questions":15},
-      { "id": "test4", "title": "Test 4", "description":"Supplementary set focusing on clinical conditions, anatomical details, and physiological processes of digestion.","questions":15},
-      { "id": "test5", "title": "Test 5", "description":"Comprehensive assessment covering salivary glands to intestinal absorption with varying difficulty levels.","questions":15}
-    ]
-  }
-  
+      { "id": "test1", "title": "Bio Test 1", "description":"Question on digestive systems","questions":15},
+      { "id": "test2", "title": "Bio Test 2", "description":"Covers fundamental to complex concepts of human digestive system including glands, enzymes, and organ functions","questions":15},
+      { "id": "test3", "title": "Bio Test 3", "description":"Exam-oriented questions mimicking Maharashtra Public Service Commission pattern with statement-based and application questions.","questions":15},
+      { "id": "test4", "title": "Bio Test 4", "description":"Supplementary set focusing on clinical conditions, anatomical details, and physiological processes of digestion.","questions":15},
+      { "id": "test5", "title": "Bio Test 5", "description":"Comprehensive assessment covering salivary glands to intestinal absorption with varying difficulty levels.","questions":15},
+      {"id":"chem2","title":"Chemistry Test 1","description":"Test on basic chemistry concepts","questions":10},
+      {"id":"chemistry","title":"Chemistry Test 2","description":"Advanced chemistry concepts and applications","questions":10},
+      {"id":"chemAssertionReason","title":"Chemistry Test 3","description":"Assertion-Reasoning based questions testing logical understanding of chemistry concepts","questions":10},
+      {"id":"chemFindIncorrectAmong","title":"Chemistry Test 4","description":"Identify the incorrect statement among given options in chemistry-related questions","questions":10},
+      {"id":"chemMatch","title":"Chemistry Test 5","description":"Matching-based questions on chemical properties, reactions, and principles","questions":10},
+      {"id":"chemsequencebased","title":"Chemistry Test 6","description":"Sequencing and ordering questions related to chemical processes and reactions","questions":10},
+      {"id":"chemnumricle","title":"Chemistry Test 7","description":"Numerical and calculation-based problems in chemistry","questions":10},
+      {"id":"chemSmallPassageQuestions","title":"Chemistry Test 8","description":"Short passage-based questions testing comprehension and application of chemistry concepts","questions":10},
+      {"id":"evaporationandheat","title":"Chemistry Test 9","description":"Questions focused on evaporation, heat transfer, and thermal properties","questions":10},
+      {"id":"fillInTheblanks","title":"Chemistry Test 10","description":"Fill-in-the-blank questions covering key terms and concepts in chemistry","questions":10},
+      {"id":"GasLawsandStatesofMatter","title":"Chemistry Test 11","description":"Questions on gas laws, states of matter, and their properties","questions":10}
+  ] 
+}

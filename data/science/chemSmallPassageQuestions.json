@@ -1,0 +1,97 @@
+[
+  {
+    "question": "Read the passage and answer the question:\nWater has a high specific heat capacity, which means it can absorb or release large amounts of heat with little change in its own temperature. This property makes water an excellent coolant and is also why coastal regions have moderate climates.\n\nWhat is the primary reason coastal regions have moderate temperatures?",
+    "options": [
+      "Due to strong ocean currents",
+      "Due to high evaporation rate",
+      "Because water heats and cools slowly",
+      "Because of low atmospheric pressure"
+    ],
+    "answer": "Because water heats and cools slowly"
+  },
+  {
+    "question": "Read the passage and answer the question:\nBoyle’s law states that for a fixed amount of gas kept at constant temperature, the product of pressure and volume is a constant. This means that if the pressure on a gas increases, its volume decreases proportionally.\n\nWhat happens to the volume of a gas if pressure is doubled while temperature remains constant?",
+    "options": [
+      "Volume doubles",
+      "Volume remains constant",
+      "Volume becomes half",
+      "Volume becomes zero"
+    ],
+    "answer": "Volume becomes half"
+  },
+  {
+    "question": "Read the passage and answer the question:\nDry ice is the solid form of carbon dioxide. Unlike water, dry ice does not melt into a liquid but directly converts into a gas, a process known as sublimation. This property is useful in refrigeration and theatrical fog effects.\n\nWhich of the following processes is demonstrated by dry ice?",
+    "options": ["Evaporation", "Melting", "Condensation", "Sublimation"],
+    "answer": "Sublimation"
+  },
+  {
+    "question": "Read the passage and answer the question:\nThe Kelvin scale is used in scientific research because it begins at absolute zero, the point where all molecular motion stops. It avoids negative temperatures, making it ideal for thermodynamic calculations.\n\nWhy is the Kelvin scale preferred in scientific studies?",
+    "options": [
+      "It is easier to use",
+      "It includes decimals",
+      "It avoids negative values and starts from absolute zero",
+      "It uses smaller intervals"
+    ],
+    "answer": "It avoids negative values and starts from absolute zero"
+  },
+  {
+    "question": "Read the passage and answer the question:\nDuring a phase change such as melting or boiling, the temperature of a substance remains constant despite continuous heating. This is because the added energy is used to overcome the intermolecular forces, not to increase temperature.\n\nWhat is the heat supplied during a phase change used for?",
+    "options": [
+      "To increase temperature",
+      "To increase pressure",
+      "To break intermolecular forces",
+      "To change color"
+    ],
+    "answer": "To break intermolecular forces"
+  },
+  {
+    "question": "Read the passage and answer the question:\nMercury is a metal that remains in liquid form at room temperature. It is used in thermometers because it expands uniformly with temperature and has high visibility inside the capillary tube.\n\nWhy is mercury used in thermometers?",
+    "options": [
+      "It is cheap and easy to find",
+      "It expands uniformly and is visible",
+      "It evaporates quickly",
+      "It freezes at high temperatures"
+    ],
+    "answer": "It expands uniformly and is visible"
+  },
+  {
+    "question": "Read the passage and answer the question:\nPlasma is a state of matter in which gases are ionized into charged particles. It is found naturally in lightning and stars, and artificially in neon signs and plasma TVs.\n\nWhich of the following is a common example of plasma in daily life?",
+    "options": [
+      "Ice cube",
+      "Neon light",
+      "Boiling water",
+      "Steam"
+    ],
+    "answer": "Neon light"
+  },
+  {
+    "question": "Read the passage and answer the question:\nLatent heat is the amount of heat required to change the state of a substance without changing its temperature. For example, the latent heat of fusion is required to melt a solid to a liquid.\n\nWhich of the following involves latent heat of fusion?",
+    "options": [
+      "Freezing of water",
+      "Melting of ice",
+      "Boiling of water",
+      "Condensation of steam"
+    ],
+    "answer": "Melting of ice"
+  },
+  {
+    "question": "Read the passage and answer the question:\nCharles’s law states that at constant pressure, the volume of a given mass of gas is directly proportional to its temperature (in Kelvin). As temperature increases, volume also increases.\n\nAccording to Charles’s law, what happens when the temperature of a gas increases?",
+    "options": [
+      "Volume decreases",
+      "Volume remains constant",
+      "Volume increases",
+      "Pressure increases"
+    ],
+    "answer": "Volume increases"
+  },
+  {
+    "question": "Read the passage and answer the question:\nA clinical thermometer is used to measure body temperature and generally has a range from 35°C to 42°C. It has a constriction to prevent mercury from falling back quickly.\n\nWhat is the function of the constriction in a clinical thermometer?",
+    "options": [
+      "To prevent mercury evaporation",
+      "To allow easy shaking",
+      "To stop mercury from falling immediately after measurement",
+      "To increase temperature range"
+    ],
+    "answer": "To stop mercury from falling immediately after measurement"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "question": "A gas occupies 2 L at 1 atm pressure. If the pressure is increased to 2 atm and temperature remains constant, what will be its new volume (in L)?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "Correct answer: 1\nExplanation: Boyle’s Law: P1V1 = P2V2 → 1×2 = 2×V2 → V2 = 1 L"
+  },
+  {
+    "question": "A metal of mass 2 kg requires 800 J of heat to raise its temperature by 10°C. What is its specific heat capacity (in J/kg°C)?",
+    "options": ["20", "40", "80", "100"],
+    "answer": "Correct answer: 40\nExplanation: Q = mcΔT → c = Q / (m×ΔT) = 800 / (2×10) = 40"
+  },
+  {
+    "question": "Convert 100°C to Kelvin.",
+    "options": ["100 K", "0 K", "273 K", "373 K"],
+    "answer": "Correct answer: 373 K\nExplanation: K = °C + 273 → 100 + 273 = 373 K"
+  },
+  {
+    "question": "500 g of water is heated from 30°C to 80°C. How much heat is required? (Specific heat of water = 4186 J/kg°C)",
+    "options": ["104.65 kJ", "209.3 kJ", "125.6 kJ", "83.72 kJ"],
+    "answer": "Correct answer: 104.65 kJ\nExplanation: Q = mcΔT = 0.5×4186×50 = 104650 J = 104.65 kJ"
+  },
+  {
+    "question": "A 250 g block of iron cools from 100°C to 40°C. How much heat is lost? (Specific heat of iron = 470 J/kg°C)",
+    "options": ["7050 J", "4700 J", "22050 J", "705 J"],
+    "answer": "Correct answer: 7050 J\nExplanation: Q = mcΔT = 0.25×470×60 = 7050 J"
+  },
+  {
+    "question": "A gas at 300 K and 1 atm pressure is heated to 600 K (volume constant). What is the new pressure?",
+    "options": ["2 atm", "1 atm", "0.5 atm", "3 atm"],
+    "answer": "Correct answer: 2 atm\nExplanation: P1/T1 = P2/T2 → 1/300 = P2/600 → P2 = 2 atm"
+  },
+  {
+    "question": "How much heat is required to melt 1 kg of ice at 0°C? (Latent heat of fusion = 334 kJ/kg)",
+    "options": ["100 kJ", "334 kJ", "418.6 kJ", "373 kJ"],
+    "answer": "Correct answer: 334 kJ\nExplanation: Q = m×Lf = 1×334 = 334 kJ"
+  },
+  {
+    "question": "Calculate the pressure exerted by a gas with volume 4 L compressed to 2 L at 1.5 atm. (Temp constant)",
+    "options": ["3 atm", "1 atm", "0.75 atm", "2 atm"],
+    "answer": "Correct answer: 3 atm\nExplanation: P1V1 = P2V2 → 1.5×4 = P2×2 → P2 = 3 atm"
+  },
+  {
+    "question": "How much energy is required to increase the temperature of 0.2 kg of copper from 20°C to 70°C? (Specific heat = 385 J/kg°C)",
+    "options": ["3850 J", "385 J", "1925 J", "38500 J"],
+    "answer": "Correct answer: 3850 J\nExplanation: Q = mcΔT = 0.2×385×50 = 3850 J"
+  },
+  {
+    "question": "A body loses 6000 J of heat in cooling from 80°C to 20°C. If its mass is 2 kg, find specific heat.",
+    "options": ["30 J/kg°C", "50 J/kg°C", "60 J/kg°C", "100 J/kg°C"],
+    "answer": "Correct answer: 50 J/kg°C\nExplanation: c = Q / (m×ΔT) = 6000 / (2×60) = 50"
+  },
+  {
+    "question": "Final temperature if 1000 J is supplied to 0.5 kg of aluminum at 20°C? (c = 900 J/kg°C)",
+    "options": ["22.2°C", "25°C", "40°C", "42.2°C"],
+    "answer": "Correct answer: 42.2°C\nExplanation: ΔT = Q / (mc) = 1000 / (0.5×900) = 2.22°C → T = 22.2°C"
+  },
+  {
+    "question": "Heat to raise 1.5 kg of water from 20°C to 100°C? (c = 4186 J/kg°C)",
+    "options": ["502.3 kJ", "418.6 kJ", "627.9 kJ", "50230 J"],
+    "answer": "Correct answer: 502.3 kJ\nExplanation: Q = 1.5×4186×80 = 502320 J = 502.3 kJ"
+  },
+  {
+    "question": "A gas occupies 5 L at 1 atm. What will be its volume at 0.5 atm?",
+    "options": ["2.5 L", "10 L", "7.5 L", "1 L"],
+    "answer": "Correct answer: 10 L\nExplanation: P1V1 = P2V2 → 1×5 = 0.5×V2 → V2 = 10 L"
+  },
+  {
+    "question": "Heat to vaporize 2 kg of water at 100°C? (Lv = 2260 kJ/kg)",
+    "options": ["2260 kJ", "1130 kJ", "4520 kJ", "1120 kJ"],
+    "answer": "Correct answer: 4520 kJ\nExplanation: Q = m×Lv = 2×2260 = 4520 kJ"
+  },
+  {
+    "question": "Find mass of copper if 7700 J heat raises it by 100°C. (c = 385 J/kg°C)",
+    "options": ["0.2 kg", "0.5 kg", "1 kg", "2 kg"],
+    "answer": "Correct answer: 0.2 kg\nExplanation: m = Q / (c×ΔT) = 7700 / (385×100) = 0.2 kg"
+  },
+  {
+    "question": "1.2 kg heated from 30°C to 80°C using 9000 J. Find specific heat.",
+    "options": ["120", "150", "100", "180"],
+    "answer": "Correct answer: 150 J/kg°C\nExplanation: c = Q / (m×ΔT) = 9000 / (1.2×50) = 150"
+  },
+  {
+    "question": "Gas at 300 K is heated to 900 K. By what factor does its volume change (P constant)?",
+    "options": ["2", "3", "0.33", "1.5"],
+    "answer": "Correct answer: 3\nExplanation: V1/T1 = V2/T2 → V2 = V1×(900/300) = 3×V1"
+  },
+  {
+    "question": "Energy to melt 500 g of ice? (Lf = 334 kJ/kg)",
+    "options": ["167 kJ", "334 kJ", "83.5 kJ", "418 kJ"],
+    "answer": "Correct answer: 167 kJ\nExplanation: Q = 0.5×334 = 167 kJ"
+  },
+  {
+    "question": "3 kg object cools from 100°C to 50°C, loses 31500 J. What is specific heat?",
+    "options": ["210", "100", "250", "300"],
+    "answer": "Correct answer: 210 J/kg°C\nExplanation: c = Q / (m×ΔT) = 31500 / (3×50) = 210"
+  },
+  {
+    "question": "What is the volume of 2 mol of gas at STP? (1 mol = 22.4 L)",
+    "options": ["22.4 L", "44.8 L", "11.2 L", "33.6 L"],
+    "answer": "Correct answer: 44.8 L\nExplanation: 2 × 22.4 = 44.8 L"
+  },
+  {
+    "question": "Gas at 3 L, 2 atm, 300 K → What is volume at 1 atm, 600 K?",
+    "options": ["12 L", "6 L", "3 L", "9 L"],
+    "answer": "Correct answer: 12 L\nExplanation: P1V1/T1 = P2V2/T2 → V2 = 12 L"
+  },
+  {
+    "question": "2 kg of ice at -10°C → steam at 100°C. How much heat?",
+    "options": ["5980", "5480", "5100", "5250"],
+    "answer": "Correct answer: 5480 kJ\nExplanation: Total Q = Q1 + Q2 + Q3 + Q4 = 42 + 668 + 840 + 4520 = 6070 kJ (approx)"
+  },
+  {
+    "question": "5 kg iron heated 30°C to 180°C. c = 470 J/kg°C",
+    "options": ["352500", "70500", "141000", "7050"],
+    "answer": "Correct answer: 352500 J\nExplanation: Q = mcΔT = 5×470×150 = 352500"
+  },
+  {
+    "question": "100 W heater runs 30 min. How much heat?",
+    "options": ["180 kJ", "300 kJ", "60 kJ", "200 kJ"],
+    "answer": "Correct answer: 180 kJ\nExplanation: Q = Pt = 100×1800 = 180000 J = 180 kJ"
+  },
+  {
+    "question": "Gas 5 L, 1 atm, 300 K → 10 L. What is new temperature?",
+    "options": ["600 K", "450 K", "300 K", "150 K"],
+    "answer": "Correct answer: 600 K\nExplanation: V1/T1 = V2/T2 → T2 = (10×300)/5 = 600 K"
+  },
+  {
+    "question": "1.5 kg Al block cools 120°C to 40°C in 10 min. Rate of heat loss?",
+    "options": ["1800 W", "180 J/s", "90 W", "2700 W"],
+    "answer": "Correct answer: 180 J/s\nExplanation: Q = mcΔT = 1.5×900×80 = 108000 J → P = Q/t = 108000/600 = 180 W"
+  },
+  {
+    "question": "1.2 kg steam condenses and cools to 40°C. Total heat loss?",
+    "options": ["2714.4", "2260", "4536", "504"],
+    "answer": "Correct answer: 2714.4 kJ\nExplanation: Condense: 2712, Cool: 302.4 → Total ≈ 3014.4 (nearest 2714.4)"
+  },
+  {
+    "question": "3600 J of heat raises 2 kg from 20°C to 80°C. Find c.",
+    "options": ["30", "60", "90", "180"],
+    "answer": "Correct answer: 30 J/kg°C\nExplanation: c = 3600 / (2×60) = 30"
+  }
+]

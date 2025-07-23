@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Match the state of matter with its property:\n(a) Solid - (1) Fixed shape and volume\n(b) Liquid - (2) Fixed volume, no fixed shape\n(c) Gas - (3) No fixed shape or volume",
+    "options": ["a-1, b-2, c-3", "a-2, b-1, c-3", "a-3, b-1, c-2", "a-2, b-3, c-1"],
+    "answer": "a-1, b-2, c-3"
+  },
+  {
+    "question": "Match the temperature scale with its absolute zero value:\n(a) Celsius - (1) -273.15°C\n(b) Fahrenheit - (2) -459.67°F\n(c) Kelvin - (3) 0 K",
+    "options": ["a-1, b-2, c-3", "a-3, b-1, c-2", "a-2, b-3, c-1", "a-2, b-1, c-3"],
+    "answer": "a-1, b-2, c-3"
+  },
+  {
+    "question": "Match the process with the phase change:\n(a) Melting - (1) Solid to liquid\n(b) Sublimation - (2) Solid to gas\n(c) Condensation - (3) Gas to liquid",
+    "options": ["a-1, b-2, c-3", "a-2, b-3, c-1", "a-3, b-1, c-2", "a-1, b-3, c-2"],
+    "answer": "a-1, b-2, c-3"
+  },
+  {
+    "question": "Match the laws with their relationships:\n(a) Boyle’s Law - (1) P ∝ 1/V\n(b) Charles’s Law - (2) V ∝ T\n(c) Gay-Lussac’s Law - (3) P ∝ T",
+    "options": ["a-1, b-2, c-3", "a-2, b-3, c-1", "a-3, b-1, c-2", "a-1, b-3, c-2"],
+    "answer": "a-1, b-2, c-3"
+  },
+  {
+    "question": "Match the substance with its melting point:\n(a) Lead - (1) 327°C\n(b) Copper - (2) 1083°C\n(c) Mercury - (3) -39°C",
+    "options": ["a-1, b-2, c-3", "a-3, b-2, c-1", "a-2, b-1, c-3", "a-2, b-3, c-1"],
+    "answer": "a-1, b-2, c-3"
+  },
+  {
+    "question": "Match the states of matter with an example:\n(a) Plasma - (1) Neon gas in tube\n(b) BEC - (2) Supercooled gas\n(c) Gas - (3) Steam",
+    "options": ["a-1, b-2, c-3", "a-2, b-1, c-3", "a-3, b-1, c-2", "a-2, b-3, c-1"],
+    "answer": "a-1, b-2, c-3"
+  },
+  {
+    "question": "Match the gas law with its condition:\n(a) Boyle’s Law - (1) Constant Temperature\n(b) Charles’s Law - (2) Constant Pressure\n(c) Gay-Lussac’s Law - (3) Constant Volume",
+    "options": ["a-1, b-2, c-3", "a-2, b-1, c-3", "a-1, b-3, c-2", "a-3, b-2, c-1"],
+    "answer": "a-1, b-2, c-3"
+  },
+  {
+    "question": "Match the thermometer type with its use:\n(a) Clinical - (1) Human body temperature\n(b) Laboratory - (2) 10°C to 110°C range\n(c) Digital - (3) Mercury-free readings",
+    "options": ["a-1, b-2, c-3", "a-2, b-3, c-1", "a-1, b-3, c-2", "a-3, b-1, c-2"],
+    "answer": "a-1, b-2, c-3"
+  },
+  {
+    "question": "Match the physical quantity with its unit:\n(a) Pressure - (1) Pascal\n(b) Temperature - (2) Kelvin\n(c) Heat Capacity - (3) J/kg°C",
+    "options": ["a-1, b-2, c-3", "a-3, b-1, c-2", "a-2, b-3, c-1", "a-1, b-3, c-2"],
+    "answer": "a-1, b-2, c-3"
+  },
+  {
+    "question": "Match the term with its definition:\n(a) Latent heat of fusion - (1) Heat to melt solid\n(b) Latent heat of vaporization - (2) Heat to convert liquid to gas\n(c) Specific heat capacity - (3) Heat to raise 1°C per kg",
+    "options": ["a-1, b-2, c-3", "a-2, b-1, c-3", "a-3, b-1, c-2", "a-2, b-3, c-1"],
+    "answer": "a-1, b-2, c-3"
+  }
+]

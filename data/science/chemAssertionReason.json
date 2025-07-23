@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Assertion (A): Water has a high specific heat capacity.\nReason (R): Water molecules are light and hence store more energy.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A is true, but R is false"
+  },
+  {
+    "question": "Assertion (A): Gases are more compressible than liquids.\nReason (R): Gas molecules are far apart and have negligible intermolecular force.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "question": "Assertion (A): Ice floats on water.\nReason (R): Ice has higher density than water.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A is true, but R is false"
+  },
+  {
+    "question": "Assertion (A): Boiling point of water decreases at higher altitudes.\nReason (R): Atmospheric pressure is lower at higher altitudes.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "question": "Assertion (A): Sublimation occurs only at high temperature.\nReason (R): During sublimation, solid changes to gas without becoming liquid.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A is false, but R is true"
+  },
+  {
+    "question": "Assertion (A): Plasma is considered the fourth state of matter.\nReason (R): Plasma contains free-moving ions and electrons.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "question": "Assertion (A): Specific heat of mercury is higher than that of water.\nReason (R): Mercury heats up faster than water.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is false, but R is true",
+      "A is true, but R is false"
+    ],
+    "answer": "A is false, but R is true"
+  },
+  {
+    "question": "Assertion (A): Temperature of a substance remains constant during a phase change.\nReason (R): Heat energy supplied is used to break the intermolecular bonds.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "question": "Assertion (A): Kelvin is the preferred unit in gas laws.\nReason (R): Kelvin scale starts at absolute zero.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "question": "Assertion (A): Clinical thermometers measure up to 200°C.\nReason (R): Human body temperature can rise above 100°C during fever.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "A is false, but R is false"
+  }
+]
