@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MPSC Science Notes – Heat & Gas Laws</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body { padding: 2rem; background-color: #f9f9f9; }
+    h1, h2 { color: #0d6efd; }
+    .section { margin-bottom: 2rem; }
+    .nav-link { cursor: pointer; }
+    .flashcard { background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 1rem; margin-bottom: 1rem; border-radius: 0.5rem; }
+    .marathi { font-style: italic; color: #6c757d; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 class="mb-4">📘 MPSC Science Notes: Heat, Temperature & Gas Laws</h1>
+
+    <ul class="nav nav-pills mb-4">
+      <li class="nav-item"><a class="nav-link" href="#definitions">Definitions</a></li>
+      <li class="nav-item"><a class="nav-link" href="#formulas">Formulas</a></li>
+      <li class="nav-item"><a class="nav-link" href="#keywords">Keywords</a></li>
+      <li class="nav-item"><a class="nav-link" href="#laws">Laws</a></li>
+      <li class="nav-item"><a class="nav-link" href="#tricks">Tricks</a></li>
+      <li class="nav-item"><a class="nav-link" href="#flashcards">Flashcards</a></li>
+    </ul>
+
+    <div id="definitions" class="section">
+      <h2>🧠 Easy Definitions</h2>
+      <ul>
+        <li><strong>Heat:</strong> Energy that moves from a hot object to a cold one. <span class="marathi">(उष्णता: गरम वस्तूपासून थंड वस्तूकडे जाणारी ऊर्जा)</span></li>
+        <li><strong>Temperature:</strong> How hot or cold something is. <span class="marathi">(तापमान: वस्तू किती गरम/थंड आहे हे दर्शवणारी संख्या)</span></li>
+        <li><strong>Specific Heat:</strong> Heat needed to increase temperature of 1 kg of a substance by 1°C. <span class="marathi">(विशिष्ट उष्णता: 1 किग्र. पदार्थाचे तापमान 1°C वाढवायला लागणारी उष्णता)</span></li>
+        <li><strong>Latent Heat:</strong> Heat used to change state without changing temperature. <span class="marathi">(गुप्त उष्णता: स्थिती बदलण्याकरिता लागणारी पण तापमान न वाढवणारी उष्णता)</span></li>
+      </ul>
+    </div>
+
+    <div id="formulas" class="section">
+      <h2>📐 Useful Formulas</h2>
+      <table class="table table-bordered">
+        <thead class="table-light">
+          <tr><th>Concept</th><th>Formula</th><th>Units</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Heat</td><td>Q = mcΔT</td><td>Joules (J)</td></tr>
+          <tr><td>Latent Heat</td><td>Q = mL</td><td>Joules (J)</td></tr>
+          <tr><td>Boyle’s Law</td><td>P₁V₁ = P₂V₂</td><td>atm, L</td></tr>
+          <tr><td>Charles’s Law</td><td>V₁/T₁ = V₂/T₂</td><td>L, K</td></tr>
+          <tr><td>Combined Gas Law</td><td>(P₁V₁)/T₁ = (P₂V₂)/T₂</td><td>-</td></tr>
+          <tr><td>Kelvin Conversion</td><td>K = °C + 273</td><td>K</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div id="keywords" class="section">
+      <h2>🔑 Important Words</h2>
+      <ul>
+        <li>Boiling Point <span class="marathi">(सालनांक)</span></li>
+        <li>Melting Point <span class="marathi">(गलनांक)</span></li>
+        <li>Evaporation <span class="marathi">(बाष्पीभवन)</span></li>
+        <li>Condensation <span class="marathi">(संघनन)</span></li>
+        <li>Thermal Expansion <span class="marathi">(उष्ण विस्तार)</span></li>
+        <li>Calorimetry <span class="marathi">(तापमापन प्रक्रिया)</span></li>
+        <li>Sublimation <span class="marathi">(थेट वायुरूपात रूपांतर)</span></li>
+        <li>Sensible Heat <span class="marathi">(महसूस होणारी उष्णता)</span></li>
+      </ul>
+    </div>
+
+    <div id="laws" class="section">
+      <h2>📏 Gas Laws – Definitions and Usage</h2>
+      <ul>
+        <li><strong>Boyle’s Law:</strong> At constant temperature, the pressure of a gas is inversely proportional to its volume. <br><span class="marathi">(स्थिर तापमानास, दाब आणि आयतन एकमेकांशी व्यस्त प्रमाणात असतात)</span><br><strong>Use when:</strong> Temperature is constant and pressure or volume is changing.</li>
+
+        <li><strong>Charles’s Law:</strong> At constant pressure, the volume of a gas is directly proportional to its temperature (in Kelvin). <br><span class="marathi">(स्थिर दाबात, वायूचे आयतन तापमानाशी (Kelvin मध्ये) समप्रमाणात असते)</span><br><strong>Use when:</strong> Pressure is constant and you are comparing volume and temperature.</li>
+
+        <li><strong>Gay-Lussac’s Law:</strong> At constant volume, the pressure of a gas is directly proportional to its temperature (in Kelvin). <br><span class="marathi">(स्थिर आयतनात, वायूचा दाब तापमानाशी समप्रमाणात असतो)</span><br><strong>Use when:</strong> Volume is constant and pressure or temperature changes.</li>
+
+        <li><strong>Combined Gas Law:</strong> Combines Boyle's, Charles's and Gay-Lussac's laws into one equation: (P₁V₁)/T₁ = (P₂V₂)/T₂ <br><span class="marathi">(तीनही नियम एकत्र करून वापरणारा नियम)</span><br><strong>Use when:</strong> All three—pressure, volume, and temperature—are changing.</li>
+
+        <li><strong>Ideal Gas Law (not in formula table):</strong> PV = nRT <br><span class="marathi">(सिद्ध वायू नियम: वायूचे वर्तन दर्शवणारा संपूर्ण सूत्र)</span><br><strong>Use when:</strong> You need to find moles, pressure, volume, or temperature of a gas.</li>
+      </ul>
+    </div>
+
+    <div id="tricks" class="section">
+      <h2>🧠 Easy Tricks for MCQs</h2>
+      <ul>
+        <li><strong>Memory Trick (HEAT):</strong> "<em>Hi Everyone At Tea</em>" → Heat, Evaporation, Absorption, Temperature</li>
+        <li><strong>Memory Trick (GAS LAWS):</strong> "<em>Big Cool Guys</em>" → Boyle's, Charles's, Gay-Lussac's</li>
+        <li><strong>Memory Trick (State Change):</strong> "<em>MEBS</em>" → Melting, Evaporation, Boiling, Sublimation</li>
+      </ul>
+    </div>
+
+    <div id="flashcards" class="section">
+      <h2>📇 Flashcards for Revision</h2>
+      <div class="flashcard"><strong>Q:</strong> What is the formula for calculating heat? <br><strong>A:</strong> Q = mcΔT</div>
+      <div class="flashcard"><strong>Q:</strong> What does Boyle’s Law say? <br><strong>A:</strong> At constant temperature, pressure × volume = constant</div>
+      <div class="flashcard"><strong>Q:</strong> How to convert °C to Kelvin? <br><strong>A:</strong> K = °C + 273</div>
+      <div class="flashcard"><strong>Q:</strong> What is the meaning of latent heat? <br><strong>A:</strong> Heat used for state change without temperature change</div>
+      <div class="flashcard"><strong>Q:</strong> What is sublimation? <br><strong>A:</strong> Direct conversion of solid to gas</div>
+    </div>
+
+  </div>
+</body>
+</html>
