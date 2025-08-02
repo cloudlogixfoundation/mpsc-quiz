@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Statement (S): Oxygen moves from alveoli into the blood.\nReason (R): The partial pressure of oxygen is higher in alveoli than in blood.",
+    "options": [
+      "Both S and R are true and R is the correct explanation of S",
+      "Both S and R are true but R is not the correct explanation of S",
+      "S is true but R is false",
+      "S is false but R is true"
+    ],
+    "answer": "Both S and R are true and R is the correct explanation of S"
+  },
+  {
+    "question": "Statement (S): Carbon dioxide is transported only in dissolved form in plasma.\nReason (R): CO₂ is highly soluble in plasma and does not need any chemical transformation.",
+    "options": [
+      "Both S and R are true and R is the correct explanation of S",
+      "Both S and R are true but R is not the correct explanation of S",
+      "S is false but R is true",
+      "S is true but R is false"
+    ],
+    "answer": "S is false but R is true"
+  },
+  {
+    "question": "Statement (S): Exhalation is a passive process under normal conditions.\nReason (R): Diaphragm and intercostal muscles relax during exhalation.",
+    "options": [
+      "Both S and R are true and R is the correct explanation of S",
+      "Both S and R are true but R is not the correct explanation of S",
+      "S is true but R is false",
+      "S is false but R is true"
+    ],
+    "answer": "Both S and R are true and R is the correct explanation of S"
+  },
+  {
+    "question": "Statement (S): Left lung is larger than right lung in humans.\nReason (R): Left lung accommodates the liver which is present below the diaphragm.",
+    "options": [
+      "Both S and R are true and R is the correct explanation of S",
+      "Both S and R are true but R is not the correct explanation of S",
+      "S is false but R is true",
+      "S is true but R is false"
+    ],
+    "answer": "S is false but R is true"
+  },
+  {
+    "question": "Statement (S): Haemoglobin can carry four oxygen molecules.\nReason (R): Haemoglobin contains four iron atoms that bind to oxygen.",
+    "options": [
+      "Both S and R are true and R is the correct explanation of S",
+      "Both S and R are true but R is not the correct explanation of S",
+      "S is true but R is false",
+      "S is false but R is true"
+    ],
+    "answer": "Both S and R are true and R is the correct explanation of S"
+  },
+  {
+    "question": "Statement (S): Trachea prevents the collapse of air passage.\nReason (R): Trachea has a thick muscular wall to support air flow.",
+    "options": [
+      "Both S and R are true and R is the correct explanation of S",
+      "Both S and R are true but R is not the correct explanation of S",
+      "S is true but R is false",
+      "S is false but R is true"
+    ],
+    "answer": "S is true but R is false"
+  },
+  {
+    "question": "Statement (S): Anaerobic respiration releases more energy than aerobic respiration.\nReason (R): Anaerobic respiration occurs in presence of oxygen.",
+    "options": [
+      "Both S and R are true and R is the correct explanation of S",
+      "Both S and R are true but R is not the correct explanation of S",
+      "S is false but R is true",
+      "Both S and R are false"
+    ],
+    "answer": "Both S and R are false"
+  },
+  {
+    "question": "Statement (S): During inhalation, thoracic volume increases.\nReason (R): Diaphragm flattens and ribs move upward and outward.",
+    "options": [
+      "Both S and R are true and R is the correct explanation of S",
+      "Both S and R are true but R is not the correct explanation of S",
+      "S is true but R is false",
+      "S is false but R is true"
+    ],
+    "answer": "Both S and R are true and R is the correct explanation of S"
+  },
+  {
+    "question": "Statement (S): CO₂ is a waste product of cellular respiration.\nReason (R): It is produced during the breakdown of glucose in mitochondria.",
+    "options": [
+      "Both S and R are true and R is the correct explanation of S",
+      "Both S and R are true but R is not the correct explanation of S",
+      "S is true but R is false",
+      "S is false but R is true"
+    ],
+    "answer": "Both S and R are true and R is the correct explanation of S"
+  },
+  {
+    "question": "Statement (S): Gaseous exchange in lungs occurs via active transport.\nReason (R): Oxygen and carbon dioxide require ATP to pass alveolar membranes.",
+    "options": [
+      "Both S and R are true and R is the correct explanation of S",
+      "Both S and R are true but R is not the correct explanation of S",
+      "S is true but R is false",
+      "Both S and R are false"
+    ],
+    "answer": "Both S and R are false"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Match the following:\nSide A:\n1. Trachea\n2. Alveoli\n3. Larynx\n4. Bronchi\n\nSide B:\nA. Voice box\nB. Site of gas exchange\nC. Windpipe\nD. Branches into bronchioles",
+    "options": [
+      "1-C, 2-B, 3-A, 4-D",
+      "1-B, 2-D, 3-A, 4-C",
+      "1-A, 2-C, 3-D, 4-B",
+      "1-D, 2-B, 3-C, 4-A"
+    ],
+    "answer": "1-C, 2-B, 3-A, 4-D"
+  },
+  {
+    "question": "Match the following:\nSide A:\n1. Pulmonary artery\n2. Pulmonary vein\n3. Diaphragm\n4. Haemoglobin\n\nSide B:\nA. Carries oxygenated blood\nB. Contracts during inhalation\nC. Carries deoxygenated blood\nD. Binds with oxygen",
+    "options": [
+      "1-C, 2-A, 3-B, 4-D",
+      "1-A, 2-C, 3-D, 4-B",
+      "1-D, 2-B, 3-A, 4-C",
+      "1-B, 2-D, 3-C, 4-A"
+    ],
+    "answer": "1-C, 2-A, 3-B, 4-D"
+  },
+  {
+    "question": "Match the following:\nSide A:\n1. Bagassosis\n2. Anthracosis\n3. Silicosis\n4. Asbestosis\n\nSide B:\nA. Cane dust\nB. Coal dust\nC. Asbestos dust\nD. Silica dust",
+    "options": [
+      "1-A, 2-B, 3-D, 4-C",
+      "1-D, 2-C, 3-B, 4-A",
+      "1-B, 2-A, 3-C, 4-D",
+      "1-C, 2-D, 3-A, 4-B"
+    ],
+    "answer": "1-A, 2-B, 3-D, 4-C"
+  },
+  {
+    "question": "Match the following:\nSide A:\n1. Fish\n2. Frog\n3. Insect\n4. Human\n\nSide B:\nA. Tracheal respiration\nB. Pulmonary respiration\nC. Gills\nD. Cutaneous respiration",
+    "options": [
+      "1-C, 2-D, 3-A, 4-B",
+      "1-A, 2-B, 3-C, 4-D",
+      "1-D, 2-C, 3-B, 4-A",
+      "1-B, 2-A, 3-D, 4-C"
+    ],
+    "answer": "1-C, 2-D, 3-A, 4-B"
+  },
+  {
+    "question": "Match the following:\nSide A:\n1. Oxyhaemoglobin\n2. Mitochondria\n3. Respiration\n4. ATP\n\nSide B:\nA. Energy molecule\nB. Glucose breakdown\nC. Formed in lungs\nD. Site of energy release",
+    "options": [
+      "1-C, 2-D, 3-B, 4-A",
+      "1-D, 2-B, 3-C, 4-A",
+      "1-A, 2-C, 3-D, 4-B",
+      "1-B, 2-C, 3-D, 4-A"
+    ],
+    "answer": "1-C, 2-D, 3-B, 4-A"
+  },
+  {
+    "question": "Match the following:\nSide A:\n1. Lungs\n2. Kidney\n3. Skin\n4. Liver\n\nSide B:\nA. Removes urea\nB. Exchanges gases\nC. Removes sweat\nD. Detoxifies substances",
+    "options": [
+      "1-B, 2-A, 3-C, 4-D",
+      "1-A, 2-C, 3-B, 4-D",
+      "1-D, 2-B, 3-C, 4-A",
+      "1-C, 2-A, 3-B, 4-D"
+    ],
+    "answer": "1-B, 2-A, 3-C, 4-D"
+  },
+  {
+    "question": "Match the following:\nSide A:\n1. Nasal cavity\n2. Pharynx\n3. Larynx\n4. Bronchioles\n\nSide B:\nA. Sound production\nB. Air filtration\nC. Leads to alveoli\nD. Common passage for food and air",
+    "options": [
+      "1-B, 2-D, 3-A, 4-C",
+      "1-C, 2-A, 3-D, 4-B",
+      "1-A, 2-B, 3-C, 4-D",
+      "1-D, 2-C, 3-B, 4-A"
+    ],
+    "answer": "1-B, 2-D, 3-A, 4-C"
+  },
+  {
+    "question": "Match the following:\nSide A:\n1. Oxygen\n2. Carbon dioxide\n3. Nitrogen\n4. Water vapour\n\nSide B:\nA. Exhaled gas\nB. Inhaled gas\nC. Major atmospheric gas\nD. Formed during respiration",
+    "options": [
+      "1-B, 2-A, 3-C, 4-D",
+      "1-A, 2-B, 3-C, 4-D",
+      "1-C, 2-D, 3-B, 4-A",
+      "1-D, 2-C, 3-B, 4-A"
+    ],
+    "answer": "1-B, 2-A, 3-C, 4-D"
+  },
+  {
+    "question": "Match the following:\nSide A:\n1. Inspiration\n2. Expiration\n3. Diaphragm contracts\n4. Chest volume decreases\n\nSide B:\nA. Breathing out\nB. Breathing in\nC. Occurs during inhalation\nD. Occurs during exhalation",
+    "options": [
+      "1-B, 2-A, 3-C, 4-D",
+      "1-A, 2-B, 3-D, 4-C",
+      "1-C, 2-D, 3-B, 4-A",
+      "1-D, 2-C, 3-A, 4-B"
+    ],
+    "answer": "1-B, 2-A, 3-C, 4-D"
+  },
+  {
+    "question": "Match the following:\nSide A:\n1. Lungs\n2. Heart\n3. Liver\n4. Brain\n\nSide B:\nA. Pumps blood\nB. Controls body functions\nC. Detoxifies blood\nD. Respiration organ",
+    "options": [
+      "1-D, 2-A, 3-C, 4-B",
+      "1-C, 2-D, 3-A, 4-B",
+      "1-B, 2-C, 3-D, 4-A",
+      "1-A, 2-B, 3-C, 4-D"
+    ],
+    "answer": "1-D, 2-A, 3-C, 4-B"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Air enters the lungs through the ______ during inhalation.",
+    "options": ["mouth", "esophagus", "nostrils", "diaphragm"],
+    "answer": "nostrils"
+  },
+  {
+    "question": "The ______ is also called the windpipe.",
+    "options": ["larynx", "pharynx", "trachea", "bronchus"],
+    "answer": "trachea"
+  },
+  {
+    "question": "The exchange of gases takes place in the ______.",
+    "options": ["bronchi", "alveoli", "larynx", "diaphragm"],
+    "answer": "alveoli"
+  },
+  {
+    "question": "The right lung is ______ than the left lung.",
+    "options": ["smaller", "equal", "larger", "less functional"],
+    "answer": "larger"
+  },
+  {
+    "question": "The process of breathing in air is called ______.",
+    "options": ["exhalation", "inhalation", "diffusion", "osmosis"],
+    "answer": "inhalation"
+  },
+  {
+    "question": "The diaphragm ______ during inhalation.",
+    "options": ["relaxes", "contracts", "moves upward", "stays still"],
+    "answer": "contracts"
+  },
+  {
+    "question": "Oxygen is mainly carried in blood by ______.",
+    "options": ["white blood cells", "plasma", "haemoglobin", "platelets"],
+    "answer": "haemoglobin"
+  },
+  {
+    "question": "CO₂ is mostly transported in blood as ______.",
+    "options": ["gas", "plasma", "bicarbonate ions", "enzymes"],
+    "answer": "bicarbonate ions"
+  },
+  {
+    "question": "The purple color of haemoglobin becomes red after binding with ______.",
+    "options": ["carbon", "oxygen", "iron", "water"],
+    "answer": "oxygen"
+  },
+  {
+    "question": "Respiration without oxygen is known as ______ respiration.",
+    "options": ["aerobic", "pulmonary", "anaerobic", "cutaneous"],
+    "answer": "anaerobic"
+  }
+]

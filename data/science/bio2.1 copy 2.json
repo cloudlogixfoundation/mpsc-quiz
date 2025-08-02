@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which of the following statements about alveoli is incorrect?",
+    "options": [
+      "Alveoli are balloon-like air-filled sacs.",
+      "They are the functional unit of the lungs.",
+      "Exchange of gases happens between alveoli and trachea.",
+      "Human lungs contain approximately 750 million alveoli."
+    ],
+    "answer": "Exchange of gases happens between alveoli and trachea."
+  },
+  {
+    "question": "Identify the incorrect statement about haemoglobin:",
+    "options": [
+      "Haemoglobin is purple before binding to oxygen.",
+      "It carries oxygen in red blood cells.",
+      "It forms a stable compound with oxygen called oxyhaemoglobin.",
+      "All oxygen is transported through plasma, not RBCs."
+    ],
+    "answer": "All oxygen is transported through plasma, not RBCs."
+  },
+  {
+    "question": "Which statement about respiration types is incorrect?",
+    "options": [
+      "Anaerobic respiration occurs without oxygen.",
+      "Aerobic respiration occurs in the presence of oxygen.",
+      "Anaerobic respiration never produces ATP.",
+      "Aerobic respiration produces more energy than anaerobic respiration."
+    ],
+    "answer": "Anaerobic respiration never produces ATP."
+  },
+  {
+    "question": "Select the incorrect fact about the bronchus:",
+    "options": [
+      "Right bronchus is wider and more straight than the left.",
+      "Foreign particles are more likely to enter the left bronchus.",
+      "Bronchus divides into bronchioles inside the lungs.",
+      "Trachea divides into left and right bronchi."
+    ],
+    "answer": "Foreign particles are more likely to enter the left bronchus."
+  },
+  {
+    "question": "Which statement about diaphragm and breathing is incorrect?",
+    "options": [
+      "During inhalation, the diaphragm contracts.",
+      "Inhalation increases chest cavity volume.",
+      "Exhalation is always an active process.",
+      "During exhalation, diaphragm relaxes and moves upward."
+    ],
+    "answer": "Exhalation is always an active process."
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "question": "A person breathes 15 times per minute. How many breaths does he take in 2 hours?",
+    "options": ["450", "900", "1800", "1200"],
+    "answer": "1800"
+  },
+  {
+    "question": "If the tidal volume is 500 mL and the person breathes 12 times a minute, how much air is inhaled in 10 minutes?",
+    "options": ["60 L", "50 L", "70 L", "80 L"],
+    "answer": "60 L"
+  },
+  {
+    "question": "Inhaled air has 21% oxygen. Exhaled air has 16% oxygen. How much oxygen is used from 100 liters of air?",
+    "options": ["3 L", "4 L", "5 L", "6 L"],
+    "answer": "5 L"
+  },
+  {
+    "question": "If one breath takes 5 seconds, how many complete breaths can a person take in 1 minute?",
+    "options": ["10", "12", "15", "18"],
+    "answer": "12"
+  },
+  {
+    "question": "A person takes 18 breaths per minute. What is the total number of breaths in a day?",
+    "options": ["25920", "21000", "26000", "24800"],
+    "answer": "25920"
+  },
+  {
+    "question": "If vital capacity of lungs is 4800 mL, and residual volume is 1200 mL, what is the total lung capacity?",
+    "options": ["6000 mL", "5000 mL", "5500 mL", "6200 mL"],
+    "answer": "6000 mL"
+  },
+  {
+    "question": "The respiratory rate of an adult at rest is 16 breaths/min. What is the total air inhaled in 5 minutes if tidal volume is 500 mL?",
+    "options": ["40 L", "30 L", "35 L", "50 L"],
+    "answer": "40 L"
+  },
+  {
+    "question": "A person inhales 0.5 L of air per breath. How much air does he inhale in 100 breaths?",
+    "options": ["20 L", "50 L", "60 L", "80 L"],
+    "answer": "50 L"
+  },
+  {
+    "question": "If each breath cycle lasts 4 seconds, how many breaths are taken in 1 hour?",
+    "options": ["600", "900", "720", "1000"],
+    "answer": "900"
+  },
+  {
+    "question": "A patient breathes 22 times per minute. How much air is inhaled in 30 minutes if tidal volume is 400 mL?",
+    "options": ["264 L", "220 L", "300 L", "240 L"],
+    "answer": "264 L"
+  },
+  {
+    "question": "The partial pressure of oxygen in alveolar air is 104 mmHg. In venous blood, it is 40 mmHg. What is the pressure difference?",
+    "options": ["64 mmHg", "44 mmHg", "74 mmHg", "54 mmHg"],
+    "answer": "64 mmHg"
+  },
+  {
+    "question": "If lungs remove 200 mL of CO₂ per minute, how much CO₂ is exhaled in 1 hour?",
+    "options": ["12 L", "10 L", "14 L", "8 L"],
+    "answer": "12 L"
+  },
+  {
+    "question": "A person has a respiratory rate of 20/min and a tidal volume of 0.4 L. What is the minute ventilation?",
+    "options": ["8 L", "10 L", "12 L", "6 L"],
+    "answer": "8 L"
+  },
+  {
+    "question": "If haemoglobin carries 97% of oxygen in blood, how much oxygen is carried by plasma per 100 mL?",
+    "options": ["3 mL", "5 mL", "2 mL", "1 mL"],
+    "answer": "3 mL"
+  },
+  {
+    "question": "If a person inhales 600 mL of air per breath and takes 14 breaths/min, how much air is inhaled in 15 minutes?",
+    "options": ["126 L", "120 L", "112 L", "118 L"],
+    "answer": "126 L"
+  }
+]

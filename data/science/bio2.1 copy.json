@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Which physiological condition involves both oxygen deficiency and carbon dioxide excess in the blood?",
+    "options": ["Asphyxia", "Hypoxia", "Hypercapnia", "Anoxia"],
+    "answer": "Asphyxia"
+  },
+  {
+    "question": "What causes the red coloration of haemoglobin during oxygen transport?",
+    "options": [
+      "Iron and glucose reaction",
+      "Iron reacting with carbon dioxide",
+      "Iron reacting with oxygen (oxidation)",
+      "Myoglobin breakdown"
+    ],
+    "answer": "Iron reacting with oxygen (oxidation)"
+  },
+  {
+    "question": "Which statement best explains the reason for yawning based on respiratory physiology?",
+    "options": [
+      "Yawning reduces stress levels.",
+      "Yawning helps equalize ear pressure.",
+      "Yawning occurs to increase oxygen supply during CO₂ buildup.",
+      "Yawning is a reflex due to lung irritation."
+    ],
+    "answer": "Yawning occurs to increase oxygen supply during CO₂ buildup."
+  },
+  {
+    "question": "During inhalation, which of the following mechanical changes occur in the chest cavity?",
+    "options": [
+      "Ribs contract inward, diaphragm relaxes",
+      "Volume decreases and pressure increases",
+      "Diaphragm contracts and chest volume increases",
+      "Air pressure increases in lungs"
+    ],
+    "answer": "Diaphragm contracts and chest volume increases"
+  },
+  {
+    "question": "How is most carbon dioxide transported in human blood?",
+    "options": [
+      "As dissolved gas in plasma",
+      "Bound to oxygen",
+      "As bicarbonates in plasma",
+      "With platelets"
+    ],
+    "answer": "As bicarbonates in plasma"
+  },
+  {
+    "question": "Which reaction explains the breakdown of bicarbonates in blood to release CO₂ during exhalation?",
+    "options": [
+      "NaHCO₃ → Na + HCO₃",
+      "H₂CO₃ → H₂O + CO₂",
+      "CO₂ + H₂O → H₂CO₃",
+      "HCO₃ + H⁺ → H₂CO₃"
+    ],
+    "answer": "H₂CO₃ → H₂O + CO₂"
+  },
+  {
+    "question": "Why is the right bronchus more prone to foreign body entry than the left?",
+    "options": [
+      "It is narrower and more curved.",
+      "It is straighter, wider and shorter than the left.",
+      "It is closer to heart.",
+      "It has more mucus-secreting glands."
+    ],
+    "answer": "It is straighter, wider and shorter than the left."
+  },
+  {
+    "question": "Which profession-related disease is specifically caused by cane dust exposure?",
+    "options": ["Bagassosis", "Byssinosis", "Anthracosis", "Asbestosis"],
+    "answer": "Bagassosis"
+  },
+  {
+    "question": "Which of the following best defines Bohr’s Effect?",
+    "options": [
+      "High CO₂ increases oxygen binding to haemoglobin",
+      "Low pH decreases oxygen binding to haemoglobin",
+      "High oxygen increases red blood cell count",
+      "Carbon monoxide increases oxygen binding"
+    ],
+    "answer": "Low pH decreases oxygen binding to haemoglobin"
+  },
+  {
+    "question": "Which form of respiration is observed in earthworms and amphibians through their moist skin?",
+    "options": ["Bronchial", "Pulmonary", "Cutaneous", "Tracheal"],
+    "answer": "Cutaneous"
+  },
+  {
+    "question": "Which component transports 97–98% of oxygen in the human body?",
+    "options": ["Myoglobin", "Haemoglobin in RBC", "Plasma", "Alveolar ducts"],
+    "answer": "Haemoglobin in RBC"
+  },
+  {
+    "question": "How is oxygen primarily released from haemoglobin to tissues?",
+    "options": [
+      "Through mechanical pressure of lungs",
+      "Due to lower partial pressure of oxygen in tissues",
+      "Due to higher CO₂ concentration in alveoli",
+      "By binding with sodium"
+    ],
+    "answer": "Due to lower partial pressure of oxygen in tissues"
+  },
+  {
+    "question": "What distinguishes aerobic from anaerobic respiration at the cellular level?",
+    "options": [
+      "Production of CO₂",
+      "ATP production without glucose",
+      "Requirement of oxygen for ATP generation",
+      "Occurs only in lungs"
+    ],
+    "answer": "Requirement of oxygen for ATP generation"
+  },
+  {
+    "question": "Which of the following is **not** a part of human respiratory conduction system?",
+    "options": ["Alveolus", "Bronchi", "Trachea", "Larynx"],
+    "answer": "Alveolus"
+  },
+  {
+    "question": "Which respiratory mechanism do insects use?",
+    "options": ["Cutaneous respiration", "Pulmonary respiration", "Tracheal respiration", "Bronchial respiration"],
+    "answer": "Tracheal respiration"
+  }
+]

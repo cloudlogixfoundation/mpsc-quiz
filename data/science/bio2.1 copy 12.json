@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Which of the following is NOT a part of the human respiratory system?",
+    "options": ["Trachea", "Alveoli", "Bronchi", "Esophagus"],
+    "answer": "Esophagus"
+  },
+  {
+    "question": "Which of the following does NOT play a role in breathing?",
+    "options": ["Diaphragm", "Intercostal muscles", "Rib cage", "Small intestine"],
+    "answer": "Small intestine"
+  },
+  {
+    "question": "Which of the following gases is NOT involved in respiratory gas exchange?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Water vapour"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "Which of the following diseases is NOT related to the respiratory system?",
+    "options": ["Asthma", "Emphysema", "Tuberculosis", "Nephritis"],
+    "answer": "Nephritis"
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of alveoli?",
+    "options": ["Thin walls", "Rich blood supply", "Moist surface", "Presence of cilia"],
+    "answer": "Presence of cilia"
+  },
+  {
+    "question": "Which of the following statements is INCORRECT about lungs?",
+    "options": [
+      "Left lung has two lobes",
+      "Right lung has three lobes",
+      "Lungs are located in the abdominal cavity",
+      "Lungs are protected by the rib cage"
+    ],
+    "answer": "Lungs are located in the abdominal cavity"
+  },
+  {
+    "question": "Which of the following organs is NOT involved in excretion of gases?",
+    "options": ["Lungs", "Nose", "Skin", "Kidneys"],
+    "answer": "Kidneys"
+  },
+  {
+    "question": "Which of the following does NOT occur during inhalation?",
+    "options": [
+      "Diaphragm contracts",
+      "Chest cavity increases",
+      "Lungs deflate",
+      "Air is drawn into lungs"
+    ],
+    "answer": "Lungs deflate"
+  },
+  {
+    "question": "Which of the following is NOT a respiratory disorder?",
+    "options": ["Bronchitis", "Asbestosis", "Circulosis", "Bagassosis"],
+    "answer": "Circulosis"
+  },
+  {
+    "question": "Which of the following cells is responsible for transporting oxygen?",
+    "options": ["Red blood cells", "White blood cells", "Platelets", "Lymphocytes"],
+    "answer": "Red blood cells"
+  }
+]

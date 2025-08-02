@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the functional unit of the lungs?",
+    "options": ["Bronchi", "Alveoli", "Bronchiole", "Larynx"],
+    "answer": "Alveoli"
+  },
+  {
+    "question": "Which part of the respiratory system is also known as the sound box?",
+    "options": ["Trachea", "Pharynx", "Larynx", "Nostrils"],
+    "answer": "Larynx"
+  },
+  {
+    "question": "What is the role of diaphragm during inhalation?",
+    "options": [
+      "It relaxes and decreases chest volume",
+      "It contracts and increases chest volume",
+      "It becomes convex",
+      "It reduces oxygen level"
+    ],
+    "answer": "It contracts and increases chest volume"
+  },
+  {
+    "question": "Human lungs contain how many alveoli approximately?",
+    "options": ["750 million", "75 million", "500 million", "100 million"],
+    "answer": "750 million"
+  },
+  {
+    "question": "Which gas is transported by RBCs with the help of haemoglobin?",
+    "options": ["Carbon dioxide", "Nitrogen", "Oxygen", "Methane"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "Which lung is slightly smaller and flat?",
+    "options": ["Right Lung", "Both lungs are equal", "Left Lung", "None"],
+    "answer": "Left Lung"
+  },
+  {
+    "question": "Which process is involved in the exchange of gases between alveoli and blood?",
+    "options": ["Filtration", "Excretion", "Diffusion", "Conduction"],
+    "answer": "Diffusion"
+  },
+  {
+    "question": "Which respiratory disease is caused by inhalation of cane particles?",
+    "options": ["Anthracosis", "Silicosis", "Bagassosis", "Asbestosis"],
+    "answer": "Bagassosis"
+  },
+  {
+    "question": "Which of the following correctly defines 'Hypercapnia'?",
+    "options": [
+      "Deficiency of oxygen in cells",
+      "Increase in rate of respiration",
+      "Over saturation of carbon dioxide in the body",
+      "Bluish discoloration of skin"
+    ],
+    "answer": "Over saturation of carbon dioxide in the body"
+  },
+  {
+    "question": "What is the colour of haemoglobin before it binds with oxygen?",
+    "options": ["Red", "Green", "Purple", "Blue"],
+    "answer": "Purple"
+  },
+  {
+    "question": "What percentage of oxygen is present in inhaled air?",
+    "options": ["78%", "21%", "0.04%", "44%"],
+    "answer": "21%"
+  },
+  {
+    "question": "Which animal respires through tracheal respiration?",
+    "options": ["Fish", "Frog", "Insect", "Amphibians"],
+    "answer": "Insect"
+  },
+  {
+    "question": "Which of the following is an example of anaerobic respiration?",
+    "options": [
+      "Breathing through nose",
+      "Fermentation of alcohol",
+      "Oxygen transport by RBC",
+      "Diffusion in alveoli"
+    ],
+    "answer": "Fermentation of alcohol"
+  },
+  {
+    "question": "Bohr’s Effect is related to:",
+    "options": [
+      "Increase in oxygen carrying capacity",
+      "Increase in pH of blood",
+      "Decrease in pH of blood",
+      "Production of haemoglobin"
+    ],
+    "answer": "Decrease in pH of blood"
+  },
+  {
+    "question": "What is the full form of ATP released during respiration?",
+    "options": [
+      "Adenosine Triphosphate",
+      "Amino Tris Phosphate",
+      "Adenine Tris Phosphorus",
+      "None of these"
+    ],
+    "answer": "Adenosine Triphosphate"
+  }
+]

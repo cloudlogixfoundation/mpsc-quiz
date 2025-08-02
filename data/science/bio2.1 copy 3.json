@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which of the following statements about the diaphragm is correct?",
+    "options": [
+      "The diaphragm relaxes during inhalation.",
+      "The diaphragm contracts to increase chest cavity volume during inhalation.",
+      "The diaphragm remains static during breathing.",
+      "The diaphragm is not involved in respiration."
+    ],
+    "answer": "The diaphragm contracts to increase chest cavity volume during inhalation."
+  },
+  {
+    "question": "Which statement about alveoli is correct?",
+    "options": [
+      "Alveoli are found in the nasal cavity.",
+      "Alveoli exchange gases with the larynx.",
+      "Alveoli are the site of gas exchange with blood capillaries.",
+      "Alveoli store mucus to trap dust particles."
+    ],
+    "answer": "Alveoli are the site of gas exchange with blood capillaries."
+  },
+  {
+    "question": "What is the function of haemoglobin in RBCs?",
+    "options": [
+      "To absorb nutrients from the digestive tract",
+      "To help in muscle contraction",
+      "To transport oxygen to body tissues",
+      "To produce ATP directly"
+    ],
+    "answer": "To transport oxygen to body tissues"
+  },
+  {
+    "question": "Which component carries 97–98% of oxygen in human blood?",
+    "options": [
+      "Plasma",
+      "White Blood Cells",
+      "Haemoglobin in Red Blood Cells",
+      "Lymph"
+    ],
+    "answer": "Haemoglobin in Red Blood Cells"
+  },
+  {
+    "question": "Which part of the respiratory tract is called the sound box?",
+    "options": [
+      "Pharynx",
+      "Larynx",
+      "Trachea",
+      "Bronchi"
+    ],
+    "answer": "Larynx"
+  },
+  {
+    "question": "What is the function of the trachea?",
+    "options": [
+      "Helps in digestion",
+      "Pumps blood to the lungs",
+      "Conducts air to bronchi",
+      "Secretes digestive enzymes"
+    ],
+    "answer": "Conducts air to bronchi"
+  },
+  {
+    "question": "Which form of respiration occurs in the absence of oxygen?",
+    "options": [
+      "Aerobic respiration",
+      "Anaerobic respiration",
+      "External respiration",
+      "Pulmonary respiration"
+    ],
+    "answer": "Anaerobic respiration"
+  },
+  {
+    "question": "Which lung is slightly smaller and flat in shape?",
+    "options": [
+      "Left lung",
+      "Right lung",
+      "Both lungs are equal",
+      "None of the above"
+    ],
+    "answer": "Left lung"
+  },
+  {
+    "question": "Which one of the following gases is present in highest percentage in inhaled air?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "What is the primary cause of yawning?",
+    "options": [
+      "Lack of food",
+      "Excess oxygen in blood",
+      "Excess CO₂ in blood",
+      "Sleep deprivation only"
+    ],
+    "answer": "Excess CO₂ in blood"
+  }
+]

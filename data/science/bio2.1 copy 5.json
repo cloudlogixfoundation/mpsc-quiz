@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Arrange the parts of the respiratory system in the correct order of air flow during inhalation.",
+    "options": [
+      "Nostrils → Trachea → Pharynx → Larynx → Bronchi → Lungs",
+      "Nostrils → Pharynx → Larynx → Trachea → Bronchi → Lungs",
+      "Pharynx → Nostrils → Larynx → Bronchi → Trachea → Lungs",
+      "Larynx → Nostrils → Pharynx → Trachea → Bronchi → Lungs"
+    ],
+    "answer": "Nostrils → Pharynx → Larynx → Trachea → Bronchi → Lungs"
+  },
+  {
+    "question": "Arrange the events of inhalation in proper sequence.",
+    "options": [
+      "Diaphragm relaxes → Air enters → Chest expands",
+      "Air enters → Diaphragm contracts → Chest cavity enlarges",
+      "Diaphragm contracts → Chest cavity enlarges → Air enters lungs",
+      "Chest cavity enlarges → Air enters → Diaphragm relaxes"
+    ],
+    "answer": "Diaphragm contracts → Chest cavity enlarges → Air enters lungs"
+  },
+  {
+    "question": "Select the correct sequence for gas exchange at alveolar level.",
+    "options": [
+      "O₂ diffuses into blood → CO₂ diffuses into alveoli → O₂ used by cells",
+      "CO₂ diffuses into blood → O₂ diffuses into alveoli → CO₂ used by cells",
+      "O₂ used by cells → O₂ diffuses into blood → CO₂ diffuses into alveoli",
+      "CO₂ used by cells → O₂ enters alveoli → CO₂ enters blood"
+    ],
+    "answer": "O₂ diffuses into blood → CO₂ diffuses into alveoli → O₂ used by cells"
+  },
+  {
+    "question": "Arrange the steps of aerobic respiration in correct order.",
+    "options": [
+      "Krebs cycle → Glycolysis → Electron Transport Chain",
+      "Electron Transport Chain → Glycolysis → Krebs cycle",
+      "Glycolysis → Krebs cycle → Electron Transport Chain",
+      "Krebs cycle → Electron Transport Chain → Glycolysis"
+    ],
+    "answer": "Glycolysis → Krebs cycle → Electron Transport Chain"
+  },
+  {
+    "question": "What is the correct order of oxygen transport in human body?",
+    "options": [
+      "RBC → Alveoli → Tissues → Heart",
+      "Alveoli → Heart → Tissues → RBC",
+      "Alveoli → RBC → Heart → Tissues",
+      "Heart → RBC → Alveoli → Tissues"
+    ],
+    "answer": "Alveoli → RBC → Heart → Tissues"
+  },
+  {
+    "question": "Choose the correct order of events in exhalation.",
+    "options": [
+      "Diaphragm contracts → Chest volume increases → Air exits lungs",
+      "Diaphragm relaxes → Chest volume decreases → Air exits lungs",
+      "Diaphragm relaxes → Chest volume increases → Air enters lungs",
+      "Air exits lungs → Diaphragm contracts → Chest volume decreases"
+    ],
+    "answer": "Diaphragm relaxes → Chest volume decreases → Air exits lungs"
+  },
+  {
+    "question": "Choose the correct order of carbon dioxide transport in human body.",
+    "options": [
+      "Cells → Plasma → Lungs → Exhaled",
+      "Lungs → Plasma → Cells → Exhaled",
+      "Cells → Lungs → Plasma → Exhaled",
+      "Cells → Heart → Lungs → Tissues"
+    ],
+    "answer": "Cells → Plasma → Lungs → Exhaled"
+  },
+  {
+    "question": "Arrange the types of respiration in order of oxygen availability.",
+    "options": [
+      "Anaerobic → Aerobic",
+      "Aerobic → Anaerobic",
+      "Pulmonary → Cutaneous → Cellular",
+      "Cellular → Aerobic → Anaerobic"
+    ],
+    "answer": "Aerobic → Anaerobic"
+  },
+  {
+    "question": "Arrange the protective layers in the lungs from outermost to innermost.",
+    "options": [
+      "Parietal pleura → Pleural fluid → Visceral pleura",
+      "Visceral pleura → Pleural fluid → Parietal pleura",
+      "Pleural fluid → Parietal pleura → Visceral pleura",
+      "Parietal pleura → Visceral pleura → Pleural fluid"
+    ],
+    "answer": "Parietal pleura → Pleural fluid → Visceral pleura"
+  },
+  {
+    "question": "Select the correct order of changes during physical exercise.",
+    "options": [
+      "Muscle demand increases → Oxygen consumption decreases → Breathing slows",
+      "Muscle demand increases → Breathing rate increases → More oxygen transported",
+      "Breathing slows → Oxygen increases → Muscle demand drops",
+      "Oxygen levels rise → Breathing decreases → Muscle activity increases"
+    ],
+    "answer": "Muscle demand increases → Breathing rate increases → More oxygen transported"
+  }
+]

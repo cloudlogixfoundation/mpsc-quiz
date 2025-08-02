@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the SI unit of respiratory rate?",
+    "options": ["Breaths/second", "Breaths/minute", "Litres/minute", "mmHg"],
+    "answer": "Breaths/minute"
+  },
+  {
+    "question": "The tidal volume of lungs is measured in:",
+    "options": ["mL", "mg", "cm", "kg"],
+    "answer": "mL"
+  },
+  {
+    "question": "Which unit is used to measure lung capacity?",
+    "options": ["Joules", "Litres", "Newton", "Celsius"],
+    "answer": "Litres"
+  },
+  {
+    "question": "Partial pressure of gases in lungs is measured in:",
+    "options": ["Pa", "mmHg", "Kelvin", "Watts"],
+    "answer": "mmHg"
+  },
+  {
+    "question": "Which unit is used to measure oxygen saturation in blood?",
+    "options": ["%", "mm", "cm²", "mol"],
+    "answer": "%"
+  },
+  {
+    "question": "Minute ventilation is expressed in:",
+    "options": ["m³/min", "L/min", "mg/min", "mL/sec"],
+    "answer": "L/min"
+  },
+  {
+    "question": "Which is the correct SI unit for pressure used in gas exchange?",
+    "options": ["Pascal", "mmHg", "Bar", "Newton"],
+    "answer": "Pascal"
+  },
+  {
+    "question": "Volume of air in one normal breath is known as tidal volume and is measured in:",
+    "options": ["mL", "L/s", "Joules", "N·m"],
+    "answer": "mL"
+  },
+  {
+    "question": "Oxygen concentration in air is typically given in:",
+    "options": ["ppm", "mg/L", "percent", "mol/m³"],
+    "answer": "percent"
+  },
+  {
+    "question": "What is the unit of total lung capacity (TLC)?",
+    "options": ["L", "cm", "kg", "kPa"],
+    "answer": "L"
+  },
+  {
+    "question": "Gas volume in pulmonary function test is measured in:",
+    "options": ["m³", "g", "L", "kg"],
+    "answer": "L"
+  },
+  {
+    "question": "Which unit is used to measure the frequency of breathing?",
+    "options": ["Hz", "bpm", "rpm", "breaths/min"],
+    "answer": "breaths/min"
+  },
+  {
+    "question": "The pressure difference that allows diffusion in alveoli is expressed in:",
+    "options": ["mmHg", "m/s", "kg/m³", "Celsius"],
+    "answer": "mmHg"
+  },
+  {
+    "question": "What is the standard unit for measuring blood pressure?",
+    "options": ["mmHg", "Pa", "kPa", "atm"],
+    "answer": "mmHg"
+  },
+  {
+    "question": "Which unit is NOT typically used in respiratory system studies?",
+    "options": ["L", "mmHg", "dB", "mL"],
+    "answer": "dB"
+  }
+]

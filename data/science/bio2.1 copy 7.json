@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which of the following combinations is correct regarding respiratory organs and animals?",
+    "options": [
+      "Fish – Lungs",
+      "Frog – Trachea",
+      "Insect – Tracheal tubes",
+      "Earthworm – Lungs"
+    ],
+    "answer": "Insect – Tracheal tubes"
+  },
+  {
+    "question": "Which of the following combinations is correct about breathing and muscles involved?",
+    "options": [
+      "Inhalation – Diaphragm contracts",
+      "Inhalation – Diaphragm relaxes",
+      "Exhalation – Ribs expand",
+      "Exhalation – Diaphragm contracts"
+    ],
+    "answer": "Inhalation – Diaphragm contracts"
+  },
+  {
+    "question": "Which of the following combinations is correct about gas transport?",
+    "options": [
+      "Oxygen – Dissolved in plasma",
+      "Carbon dioxide – As bicarbonate ions",
+      "Oxygen – Carried by platelets",
+      "CO₂ – Carried by haemoglobin only"
+    ],
+    "answer": "Carbon dioxide – As bicarbonate ions"
+  },
+  {
+    "question": "Which of the following combinations is correct about respiratory diseases and causes?",
+    "options": [
+      "Silicosis – Sugarcane dust",
+      "Anthracosis – Coal dust",
+      "Bagassosis – Asbestos exposure",
+      "Asbestosis – Cotton fibers"
+    ],
+    "answer": "Anthracosis – Coal dust"
+  },
+  {
+    "question": "Which of the following combinations is correct about gas exchange and locations?",
+    "options": [
+      "Oxygen to blood – Trachea",
+      "CO₂ to lungs – Alveoli",
+      "Oxygen to blood – Pharynx",
+      "CO₂ exchange – Bronchi"
+    ],
+    "answer": "CO₂ to lungs – Alveoli"
+  },
+  {
+    "question": "Which of the following combinations is correct regarding lung anatomy?",
+    "options": [
+      "Left lung – 3 lobes",
+      "Right lung – 2 lobes",
+      "Left lung – Cardiac notch",
+      "Right lung – Smaller in size"
+    ],
+    "answer": "Left lung – Cardiac notch"
+  },
+  {
+    "question": "Which of the following combinations is correct regarding parts and functions?",
+    "options": [
+      "Nostrils – Sound production",
+      "Larynx – Voice box",
+      "Trachea – Food passage",
+      "Bronchi – Exchange of gases"
+    ],
+    "answer": "Larynx – Voice box"
+  },
+  {
+    "question": "Which of the following combinations is correct about respiration types?",
+    "options": [
+      "Pulmonary – Through skin",
+      "Cutaneous – Through lungs",
+      "Anaerobic – Without oxygen",
+      "Tracheal – In mammals"
+    ],
+    "answer": "Anaerobic – Without oxygen"
+  },
+  {
+    "question": "Which of the following combinations is correct about respiration products?",
+    "options": [
+      "Aerobic – Ethanol and CO₂",
+      "Anaerobic – Lactic acid or ethanol",
+      "Anaerobic – Water and ATP",
+      "Aerobic – Glucose and oxygen"
+    ],
+    "answer": "Anaerobic – Lactic acid or ethanol"
+  },
+  {
+    "question": "Which of the following combinations is correct about breathing rate?",
+    "options": [
+      "Decreases during exercise",
+      "Increases with oxygen saturation",
+      "Increases when CO₂ rises",
+      "Unchanged during sleep"
+    ],
+    "answer": "Increases when CO₂ rises"
+  }
+]

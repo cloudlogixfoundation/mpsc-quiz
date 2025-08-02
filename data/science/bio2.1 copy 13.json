@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Refer to the data: \nGas Composition in Inhaled Air:\nOxygen: 21%\nCarbon dioxide: 0.04%\nNitrogen: 78%\n\nGas Composition in Exhaled Air:\nOxygen: 16%\nCarbon dioxide: 4%\nNitrogen: 78%\n\nWhich gas shows the **maximum increase** after respiration?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "None"],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "question": "In a study, the following **lung capacities (in mL)** were recorded:\nPerson A: 4500, Person B: 4200, Person C: 4800, Person D: 3900\n\nWho has the **lowest lung capacity**?",
+    "options": ["Person A", "Person B", "Person C", "Person D"],
+    "answer": "Person D"
+  },
+  {
+    "question": "The following table shows average respiratory rates:\nInfants: 40/min\nChildren: 25/min\nAdults: 16/min\nElderly: 18/min\n\nWhich age group breathes the **fastest**?",
+    "options": ["Infants", "Children", "Adults", "Elderly"],
+    "answer": "Infants"
+  },
+  {
+    "question": "Based on data below, identify the person with **abnormal respiratory rate**:\nNormal rate = 12–20/min\nA: 14, B: 18, C: 25, D: 19",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C"
+  },
+  {
+    "question": "Study of disease cases in a year:\nAsthma – 120 cases\nBronchitis – 90 cases\nTuberculosis – 60 cases\nPneumonia – 30 cases\n\nWhich disease is **least common**?",
+    "options": ["Asthma", "Bronchitis", "Tuberculosis", "Pneumonia"],
+    "answer": "Pneumonia"
+  },
+  {
+    "question": "In an air sample, the following pollutants were recorded (in ppm):\nCO: 12\nCO₂: 380\nSO₂: 0.8\nNOx: 1.2\n\nWhich gas is present in the **lowest amount**?",
+    "options": ["CO", "CO₂", "SO₂", "NOx"],
+    "answer": "SO₂"
+  },
+  {
+    "question": "Based on data:\nO₂ carried by dissolved plasma – 3%\nO₂ carried by haemoglobin – 97%\n\nWhat percentage of oxygen is transported in plasma?",
+    "options": ["3%", "7%", "10%", "97%"],
+    "answer": "3%"
+  },
+  {
+    "question": "The table shows breath counts after exercise:\nPerson A: 28\nPerson B: 32\nPerson C: 30\nPerson D: 18\n\nWho is **least affected** by exercise?",
+    "options": ["Person A", "Person B", "Person C", "Person D"],
+    "answer": "Person D"
+  },
+  {
+    "question": "Time for complete breathing cycle (in seconds):\nInhalation: 2 sec\nExhalation: 3 sec\nPause: 1 sec\n\nWhat is the total duration of **1 breathing cycle**?",
+    "options": ["4 sec", "5 sec", "6 sec", "3 sec"],
+    "answer": "6 sec"
+  },
+  {
+    "question": "Air Pressure (in mmHg) during respiration:\nAtmospheric: 760\nInhalation: 758\nExhalation: 762\n\nDuring which phase is **inward air movement** likely?",
+    "options": ["Inhalation", "Exhalation", "Both", "None"],
+    "answer": "Inhalation"
+  }
+]

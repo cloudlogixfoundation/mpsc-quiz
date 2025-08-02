@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Assertion (A): Oxygen is transported in the blood mainly by haemoglobin.\nReason (R): Haemoglobin has a high affinity for oxygen.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": "Both A and R are true and R is the correct explanation of A."
+  },
+  {
+    "question": "Assertion (A): Left lung is smaller than the right lung.\nReason (R): Left lung gives space to accommodate the heart.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": "Both A and R are true and R is the correct explanation of A."
+  },
+  {
+    "question": "Assertion (A): Anaerobic respiration produces more energy than aerobic respiration.\nReason (R): Anaerobic respiration occurs without oxygen.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is false but R is true.",
+      "A is true but R is false."
+    ],
+    "answer": "A is false but R is true."
+  },
+  {
+    "question": "Assertion (A): Inhalation is an active process.\nReason (R): Inhalation involves contraction of diaphragm and intercostal muscles.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is false but R is true.",
+      "A is true but R is false."
+    ],
+    "answer": "Both A and R are true and R is the correct explanation of A."
+  },
+  {
+    "question": "Assertion (A): Carbon dioxide is transported mainly in the form of carbonic acid.\nReason (R): Carbonic acid breaks into bicarbonate ions and H⁺ in plasma.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is false but R is true.",
+      "A is true but R is false."
+    ],
+    "answer": "A is false but R is true."
+  },
+  {
+    "question": "Assertion (A): Exchange of gases in alveoli is an active transport process.\nReason (R): Energy in the form of ATP is required for gas exchange.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is false but R is true.",
+      "Both A and R are false."
+    ],
+    "answer": "Both A and R are false."
+  },
+  {
+    "question": "Assertion (A): Larynx is called the voice box.\nReason (R): Larynx contains vocal cords that vibrate to produce sound.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is true but R is false.",
+      "A is false but R is true."
+    ],
+    "answer": "Both A and R are true and R is the correct explanation of A."
+  },
+  {
+    "question": "Assertion (A): During physical exercise, breathing rate decreases.\nReason (R): Oxygen demand by the body reduces during exercise.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "Both A and R are false.",
+      "A is false but R is true."
+    ],
+    "answer": "Both A and R are false."
+  },
+  {
+    "question": "Assertion (A): Yawning occurs due to excess oxygen in the blood.\nReason (R): Yawning helps to remove carbon dioxide from the lungs.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is false but R is true.",
+      "Both A and R are false."
+    ],
+    "answer": "Both A and R are false."
+  },
+  {
+    "question": "Assertion (A): Exhalation is a passive process.\nReason (R): It occurs due to relaxation of diaphragm and intercostal muscles.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A.",
+      "Both A and R are true but R is not the correct explanation of A.",
+      "A is false but R is true.",
+      "A is true but R is false."
+    ],
+    "answer": "Both A and R are true and R is the correct explanation of A."
+  }
+]
